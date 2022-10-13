@@ -8,6 +8,8 @@
                     {
                         "name":"volDown",
                         "icon":"icons/system_vol_sub.png",
+                        "iconColor":"default",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"control",
@@ -19,6 +21,8 @@
                     {
                         "name":"volUp",
                         "icon":"icons/system_vol_add.png",
+                        "iconColor":"default",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"control",
@@ -30,6 +34,8 @@
                     {
                         "name":"volMute",
                         "icon":"icons/system_vol_mute.png",
+                        "iconColor":"default",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"control",
@@ -43,6 +49,8 @@
                     {
                         "name":"capture",
                         "icon":"icons/system_capture.png",
+                        "iconColor":"default",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -56,6 +64,8 @@
                     {
                         "name":"lock",
                         "icon":"icons/system_lock.png",
+                        "iconColor":"default",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -75,6 +85,8 @@
                     {
                         "name":"Play",
                         "icon":"icons/ppt_open.png",
+                        "iconColor":"",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -86,6 +98,8 @@
                     {
                         "name":"Last",
                         "icon":"icons/ppt_last.png",
+                        "iconColor":"",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -97,6 +111,8 @@
                     {
                         "name":"Next",
                         "icon":"icons/ppt_next.png",
+                        "iconColor":"",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -108,6 +124,8 @@
                     {
                         "name":"Exit",
                         "icon":"icons/ppt_exit.png",
+                        "iconColor":"",
+                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -127,6 +145,8 @@
                     {
                         "name":"",
                         "icon":"",
+                        "iconColor":"",
+                        "bgColor":"#5AB092",
                         "action":[
                             {
                                 "type":"",
@@ -146,6 +166,8 @@
                     {
                         "name":"",
                         "icon":"",
+                        "iconColor":"",
+                        "bgColor":"#115751",
                         "action":[
                             {
                                 "type":"",
@@ -165,6 +187,8 @@
                     {
                         "name":"",
                         "icon":"",
+                        "iconColor":"",
+                        "bgColor":"#355DB7",
                         "action":[
                             {
                                 "type":"",
@@ -184,6 +208,8 @@
                     {
                         "name":"",
                         "icon":"",
+                        "iconColor":"",
+                        "bgColor":"#0271AD",
                         "action":[
                             {
                                 "type":"",
