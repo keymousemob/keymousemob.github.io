@@ -1,4 +1,5 @@
 {
+    "next":"",
     "list":[
         {
             "name":"System",
@@ -143,7 +144,7 @@
             "list":[
                 [
                     {
-                        "name":"",
+                        "name":"Word",
                         "icon":"",
                         "iconColor":"",
                         "bgColor":"#5AB092",
@@ -164,7 +165,7 @@
             "list":[
                 [
                     {
-                        "name":"",
+                        "name":"Ex",
                         "icon":"",
                         "iconColor":"",
                         "bgColor":"#115751",
@@ -185,7 +186,7 @@
             "list":[
                 [
                     {
-                        "name":"",
+                        "name":"[",
                         "icon":"",
                         "iconColor":"",
                         "bgColor":"#355DB7",
@@ -206,7 +207,7 @@
             "list":[
                 [
                     {
-                        "name":"",
+                        "name":"P",
                         "icon":"",
                         "iconColor":"",
                         "bgColor":"#0271AD",
