@@ -87,7 +87,6 @@
                         "name":"Play",
                         "icon":"icons/ppt_open.png",
                         "iconColor":"",
-                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -100,7 +99,6 @@
                         "name":"Last",
                         "icon":"icons/ppt_last.png",
                         "iconColor":"",
-                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -113,7 +111,6 @@
                         "name":"Next",
                         "icon":"icons/ppt_next.png",
                         "iconColor":"",
-                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
@@ -126,7 +123,6 @@
                         "name":"Exit",
                         "icon":"icons/ppt_exit.png",
                         "iconColor":"",
-                        "bgColor":"default",
                         "action":[
                             {
                                 "type":"key",
