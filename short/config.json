@@ -55,8 +55,8 @@
                         "action":[
                             {
                                 "type":"key",
-                                "default":"0A,20",
-                                "apple":"0A,16"
+                                "default":"0A,16",
+                                "apple":"0A,20"
                             }
                         ]
                     }
