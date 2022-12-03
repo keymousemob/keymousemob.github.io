@@ -8,7 +8,7 @@
                 [
                     {
                         "name":"volDown",
-                        "icon":"icons/system_vol_sub.png",
+                        "icon":"/short/icons/system_vol_sub.png",
                         "iconColor":"default",
                         "bgColor":"default",
                         "action":[
@@ -21,7 +21,7 @@
                     },
                     {
                         "name":"volUp",
-                        "icon":"icons/system_vol_add.png",
+                        "icon":"/short/icons/system_vol_add.png",
                         "iconColor":"default",
                         "bgColor":"default",
                         "action":[
@@ -34,7 +34,7 @@
                     },
                     {
                         "name":"volMute",
-                        "icon":"icons/system_vol_mute.png",
+                        "icon":"/short/icons/system_vol_mute.png",
                         "iconColor":"default",
                         "bgColor":"default",
                         "action":[
@@ -49,7 +49,7 @@
                 [
                     {
                         "name":"capture",
-                        "icon":"icons/system_capture.png",
+                        "icon":"/short/icons/system_capture.png",
                         "iconColor":"default",
                         "bgColor":"default",
                         "action":[
@@ -64,7 +64,7 @@
                 [
                     {
                         "name":"lock",
-                        "icon":"icons/system_lock.png",
+                        "icon":"/short/icons/system_lock.png",
                         "iconColor":"default",
                         "bgColor":"default",
                         "action":[
@@ -80,12 +80,12 @@
         },
         {
             "name":"ppt",
-            "icon":"apps/ppt.png",
+            "icon":"/short/apps/ppt.png",
             "list":[
                 [
                     {
                         "name":"Play",
-                        "icon":"icons/ppt_open.png",
+                        "icon":"/short/icons/ppt_open.png",
                         "iconColor":"",
                         "action":[
                             {
@@ -97,7 +97,7 @@
                     },
                     {
                         "name":"Last",
-                        "icon":"icons/ppt_last.png",
+                        "icon":"/short/icons/ppt_last.png",
                         "iconColor":"",
                         "action":[
                             {
@@ -109,7 +109,7 @@
                     },
                     {
                         "name":"Next",
-                        "icon":"icons/ppt_next.png",
+                        "icon":"/short/icons/ppt_next.png",
                         "iconColor":"",
                         "action":[
                             {
@@ -121,7 +121,7 @@
                     },
                     {
                         "name":"Exit",
-                        "icon":"icons/ppt_exit.png",
+                        "icon":"/short/icons/ppt_exit.png",
                         "iconColor":"",
                         "action":[
                             {
@@ -136,7 +136,7 @@
         },
         {
             "name":"word",
-            "icon":"apps/word.png",
+            "icon":"/short/apps/word.png",
             "list":[
                 [
                     {
@@ -157,7 +157,7 @@
         },
         {
             "name":"excel",
-            "icon":"apps/excel.png",
+            "icon":"/short/apps/excel.png",
             "list":[
                 [
                     {
@@ -178,7 +178,7 @@
         },
         {
             "name":"Ae",
-            "icon":"apps/Ae.png",
+            "icon":"/short/apps/Ae.png",
             "list":[
                 [
                     {
@@ -199,7 +199,7 @@
         },
         {
             "name":"Pr",
-            "icon":"apps/Pr.png",
+            "icon":"/short/apps/Pr.png",
             "list":[
                 [
                     {
@@ -220,7 +220,7 @@
         },
         {
             "name":"Ps",
-            "icon":"apps/Ps.png",
+            "icon":"/short/apps/Ps.png",
             "list":[
                 [
                     {
@@ -239,7 +239,7 @@
         },
         {
             "name":"Ai",
-            "icon":"apps/Ai.png",
+            "icon":"/short/apps/Ai.png",
             "list":[
                 [
                     {

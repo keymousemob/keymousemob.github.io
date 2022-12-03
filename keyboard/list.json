@@ -1,0 +1,61 @@
+{
+    "next":"",
+    "list":[
+        {
+            "name":"EN",
+            "des":"English Keyboard",
+            "layout":"/keyboard/layout/en.json",
+            "apple_layout":"/keyboard/layout/en_mac.json",
+            "preview":"/keyboard/preview/w_keyboard_en_ko.svg",
+            "dark_preview":"/keyboard/preview/b_keyboard_en_ko.svg"
+        },
+        {
+            "name":"DE",
+            "des":"Deutsche Tastatur",
+            "layout":"/keyboard/layout/de.json",
+            "apple_layout":"/keyboard/layout/de_mac.json",
+            "preview":"/keyboard/preview/w_keyboard_de_fr_ru.svg",
+            "dark_preview":"/keyboard/preview/b_keyboard_de_fr_ru.svg"
+        },
+        {
+            "name":"FR",
+            "des":"clavier français",
+            "layout":"/keyboard/layout/fr.json",
+            "apple_layout":"/keyboard/layout/fr_mac.json",
+            "preview":"/keyboard/preview/w_keyboard_de_fr_ru.svg",
+            "dark_preview":"/keyboard/preview/b_keyboard_de_fr_ru.svg"
+        },
+        {
+            "name":"JP",
+            "des":"日本語キーボード",
+            "layout":"/keyboard/layout/jp.json",
+            "apple_layout":"/keyboard/layout/jp_mac.json",
+            "preview":"/keyboard/preview/w_keyboard_jp.svg",
+            "dark_preview":"/keyboard/preview/b_keyboard_jp.svg"
+        },
+        {
+            "name":"KO",
+            "des":"한글 키보드",
+            "layout":"/keyboard/layout/ko.json",
+            "apple_layout":"/keyboard/layout/ko_mac.json",
+            "preview":"/keyboard/preview/w_keyboard_en_ko.svg",
+            "dark_preview":"/keyboard/preview/b_keyboard_en_ko.svg"
+        },
+        {
+            "name":"RU",
+            "des":"Русская раскладка клавиатуры",
+            "layout":"/keyboard/layout/ru.json",
+            "apple_layout":"/keyboard/layout/ru_mac.json",
+            "preview":"/keyboard/preview/w_keyboard_de_fr_ru.svg",
+            "dark_preview":"/keyboard/preview/b_keyboard_de_fr_ru.svg"
+        },
+        {
+            "name":"TH",
+            "des":"แป้นพิมพ์ภาษาไทย",
+            "layout":"/keyboard/layout/th.json",
+            "apple_layout":"/keyboard/layout/th_mac.json",
+            "preview":"/keyboard/preview/w_keyboard_en_ko.svg",
+            "dark_preview":"/keyboard/preview/b_keyboard_en_ko.svg"
+        }
+    ]
+}
