@@ -2,8 +2,8 @@
   "next": "",
   "list": [
     {
-      "name": "System",
-      "icon": "",
+      "name": "Default",
+      "icon": "/short/apps/app.png",
       "list": [
         [
           {
