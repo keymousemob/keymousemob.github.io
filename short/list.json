@@ -1,463 +1,478 @@
 {
-    "next":"",
-    "list":[
-        {
-            "name":"System",
-            "icon":"",
-            "list":[
-                [
-                    {
-                        "name":"Vol Down",
-                        "icon":"/short/icons/system/vol_sub.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"control",
-                                "default":"2"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Vol Up",
-                        "icon":"/short/icons/system/vol_add.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"control",
-                                "default":"1"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Vol Mute",
-                        "icon":"/short/icons/system/vol_mute.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"control",
-                                "default":"4"
-                            }
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "name":"Previous",
-                        "icon":"/short/icons/system/media_previous.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"control",
-                                "default":"20"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Play Pause",
-                        "icon":"/short/icons/system/media_play.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"control",
-                                "default":"8"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Next",
-                        "icon":"/short/icons/system/media_next.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"control",
-                                "default":"10"
-                            }
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "name":"capture",
-                        "icon":"/short/icons/system/capture.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"key",
-                                "default":"0A,16",
-                                "apple":"0A,20"
-                            }
-                        ]
-                    }
-                ],
-                [
-                    {
-                        "name":"lock",
-                        "icon":"/short/icons/system/lock.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "type":"key",
-                                "default":"08,0F",
-                                "apple":"09,14"
-                            }
-                        ]
-                    }
-                ]
+  "next": "",
+  "list": [
+    {
+      "name": "System",
+      "icon": "",
+      "list": [
+        [
+          {
+            "name": "Vol Down",
+            "icon": "/short/icons/system/vol_sub.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "2"
+              }
             ]
-        },
-        {
-            "name":"ppt",
-            "icon":"/short/apps/ppt.png",
-            "list":[
-                [
-                    {
-                        "name":"Play",
-                        "icon":"/short/icons/ppt/open.svg",
-                        "iconColor":"",
-                        "action":[
-                            {
-                                "type":"key",
-                                "default":"00,3E",
-                                "apple":"08,28"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Last",
-                        "icon":"/short/icons/ppt/last.svg",
-                        "iconColor":"",
-                        "action":[
-                            {
-                                "type":"key",
-                                "default":"00,52",
-                                "apple":"00,52"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Next",
-                        "icon":"/short/icons/ppt/next.svg",
-                        "iconColor":"",
-                        "action":[
-                            {
-                                "type":"key",
-                                "default":"00,51",
-                                "apple":"00,51"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Exit",
-                        "icon":"/short/icons/ppt/exit.svg",
-                        "iconColor":"",
-                        "action":[
-                            {
-                                "type":"key",
-                                "default":"00,29",
-                                "apple":"00,29"
-                            }
-                        ]
-                    }
-                ]
+          },
+          {
+            "name": "Vol Up",
+            "icon": "/short/icons/system/vol_add.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "1"
+              }
             ]
-        },
-        {
-            "name":"word",
-            "icon":"/short/apps/word.png",
-            "list":[
-                [
-                    {
-                        "name":"New File",
-                        "icon":"/short/icons/word/new_file.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,11",
-                                "default":"01,11",
-                                "type":"key"
-                            }
-                        ]
-                    }],
-                    [{
-                        "name":"Open File",
-                        "icon":"/short/icons/word/open_file.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,12",
-                                "default":"01,12",
-                                "type":"key"
-                            }
-                        ]
-                    }],
-                    [{
-                        "name":"Save",
-                        "icon":"/short/icons/word/save.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,16",
-                                "default":"01,16",
-                                "type":"key"
-                            }
-                        ]
-                    }],
-                    [{
-                        "name":"Close",
-                        "icon":"/short/icons/word/close.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,3D",
-                                "default":"01,1A",
-                                "type":"key"
-                            }
-                        ]
-                    }],
-                    [{
-                        "name":"Print",
-                        "icon":"/short/icons/word/print.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,13",
-                                "default":"01,13",
-                                "type":"key"
-                            }
-                        ]
-                    }],
-                    [{
-                        "name":"Revoke",
-                        "icon":"/short/icons/word/revoke.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,1D",
-                                "default":"01,1D",
-                                "type":"key"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Redo",
-                        "icon":"/short/icons/word/redo.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,1C",
-                                "default":"01,1C",
-                                "type":"key"
-                            }
-                        ]
-                    }
-                ],
-                [{
-                        "name":"Bold",
-                        "icon":"/short/icons/word/bold.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,05",
-                                "default":"01,05",
-                                "type":"key"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Italics",
-                        "icon":"/short/icons/word/italics.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,0C",
-                                "default":"01,0C",
-                                "type":"key"
-                            }
-                        ]
-                    },
-                    {
-                        "name":"Underline",
-                        "icon":"/short/icons/word/underline.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                             {
-                                "apple":"08,18",
-                                "default":"01,18",
-                                "type":"key"
-                            }
-                        ]
-                    }
-                ],
-                [{
-                        "name":"Left",
-                        "icon":"/short/icons/word/align_left.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,0F",
-                                "default":"01,0F",
-                                "type":"key"
-                            }
-                        ]
-                    },{
-                        "name":"Center",
-                        "icon":"/short/icons/word/align_center.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,08",
-                                "default":"01,08",
-                                "type":"key"
-                            }
-                        ]
-                    },{
-                        "name":"Right",
-                        "icon":"/short/icons/word/align_right.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,15",
-                                "default":"01,15",
-                                "type":"key"
-                            }
-                        ]
-                    },{
-                        "name":"Dispersion",
-                        "icon":"/short/icons/word/align_dispersion.svg",
-                        "iconColor":"default",
-                        "bgColor":"default",
-                        "action":[
-                            {
-                                "apple":"08,0D",
-                                "default":"01,0D",
-                                "type":"key"
-                            }
-                        ]
-                    }
-                ]
+          },
+          {
+            "name": "Vol Mute",
+            "icon": "/short/icons/system/vol_mute.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "4"
+              }
             ]
-        },
-        {
-            "name":"excel",
-            "icon":"/short/apps/excel.png",
-            "list":[
-                [
-                    {
-                        "name":"Ex",
-                        "icon":"",
-                        "iconColor":"",
-                        "bgColor":"#115751",
-                        "action":[
-                            {
-                                "type":"",
-                                "default":"",
-                                "apple":""
-                            }
-                        ]
-                    }
-                ]
+          }
+        ],
+        [
+          {
+            "name": "Previous",
+            "icon": "/short/icons/system/media_previous.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "20"
+              }
             ]
-        },
-        {
-            "name":"Ae",
-            "icon":"/short/apps/Ae.png",
-            "list":[
-                [
-                    {
-                        "name":"[",
-                        "icon":"",
-                        "iconColor":"",
-                        "bgColor":"#355DB7",
-                        "action":[
-                            {
-                                "type":"",
-                                "default":"",
-                                "apple":""
-                            }
-                        ]
-                    }
-                ]
+          },
+          {
+            "name": "Play Pause",
+            "icon": "/short/icons/system/media_play.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "8"
+              }
             ]
-        },
-        {
-            "name":"Pr",
-            "icon":"/short/apps/Pr.png",
-            "list":[
-                [
-                    {
-                        "name":"P",
-                        "icon":"",
-                        "iconColor":"",
-                        "bgColor":"#0271AD",
-                        "action":[
-                            {
-                                "type":"",
-                                "default":"",
-                                "apple":""
-                            }
-                        ]
-                    }
-                ]
+          },
+          {
+            "name": "Next",
+            "icon": "/short/icons/system/media_next.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "10"
+              }
             ]
-        },
-        {
-            "name":"Ps",
-            "icon":"/short/apps/Ps.png",
-            "list":[
-                [
-                    {
-                        "name":"",
-                        "icon":"",
-                        "action":[
-                            {
-                                "type":"",
-                                "default":"",
-                                "apple":""
-                            }
-                        ]
-                    }
-                ]
+          }
+        ],
+        [
+          {
+            "name": "capture",
+            "icon": "/short/icons/system/capture.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "key",
+                "default": "0A,16",
+                "apple": "0A,20"
+              }
             ]
-        },
-        {
-            "name":"Ai",
-            "icon":"/short/apps/Ai.png",
-            "list":[
-                [
-                    {
-                        "name":"",
-                        "icon":"",
-                        "action":[
-                            {
-                                "type":"",
-                                "default":"",
-                                "apple":""
-                            }
-                        ]
-                    }
-                ]
+          }
+        ],
+        [
+          {
+            "name": "lock",
+            "icon": "/short/icons/system/lock.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "key",
+                "default": "08,0F",
+                "apple": "09,14"
+              }
             ]
-        }
-    ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "ppt",
+      "icon": "/short/apps/ppt.png",
+      "list": [
+        [
+          {
+            "name": "Play",
+            "icon": "/short/icons/ppt/open.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "key",
+                "default": "00,3E",
+                "apple": "08,28"
+              }
+            ]
+          },
+          {
+            "name": "Previous",
+            "icon": "/short/icons/ppt/previous.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "key",
+                "default": "00,52",
+                "apple": "00,52"
+              }
+            ]
+          },
+          {
+            "name": "Next",
+            "icon": "/short/icons/ppt/next.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "key",
+                "default": "00,51",
+                "apple": "00,51"
+              }
+            ]
+          },
+          {
+            "name": "Exit",
+            "icon": "/short/icons/ppt/exit.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "key",
+                "default": "00,29",
+                "apple": "00,29"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "word",
+      "icon": "/short/apps/word.png",
+      "list": [
+        [
+          {
+            "name": "New File",
+            "icon": "/short/icons/word/new_file.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,11",
+                "default": "01,11",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Open File",
+            "icon": "/short/icons/word/open_file.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,12",
+                "default": "01,12",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Save",
+            "icon": "/short/icons/word/save.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,16",
+                "default": "01,16",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Close",
+            "icon": "/short/icons/word/close.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,3D",
+                "default": "01,1A",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Print",
+            "icon": "/short/icons/word/print.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,13",
+                "default": "01,13",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Revoke",
+            "icon": "/short/icons/word/revoke.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,1D",
+                "default": "01,1D",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Redo",
+            "icon": "/short/icons/word/redo.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,1C",
+                "default": "01,1C",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Bold",
+            "icon": "/short/icons/word/bold.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,05",
+                "default": "01,05",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Italics",
+            "icon": "/short/icons/word/italics.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,0C",
+                "default": "01,0C",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Underline",
+            "icon": "/short/icons/word/underline.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,18",
+                "default": "01,18",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Left",
+            "icon": "/short/icons/word/align_left.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,0F",
+                "default": "01,0F",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Center",
+            "icon": "/short/icons/word/align_center.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,08",
+                "default": "01,08",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Right",
+            "icon": "/short/icons/word/align_right.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,15",
+                "default": "01,15",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Dispersion",
+            "icon": "/short/icons/word/align_dispersion.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,0D",
+                "default": "01,0D",
+                "type": "key"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "excel",
+      "icon": "/short/apps/excel.png",
+      "list": [
+        [
+          {
+            "name": "Ex",
+            "icon": "",
+            "iconColor": "",
+            "bgColor": "#115751",
+            "action": [
+              {
+                "type": "",
+                "default": "",
+                "apple": ""
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Ae",
+      "icon": "/short/apps/Ae.png",
+      "list": [
+        [
+          {
+            "name": "[",
+            "icon": "",
+            "iconColor": "",
+            "bgColor": "#355DB7",
+            "action": [
+              {
+                "type": "",
+                "default": "",
+                "apple": ""
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Pr",
+      "icon": "/short/apps/Pr.png",
+      "list": [
+        [
+          {
+            "name": "P",
+            "icon": "",
+            "iconColor": "",
+            "bgColor": "#0271AD",
+            "action": [
+              {
+                "type": "",
+                "default": "",
+                "apple": ""
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Ps",
+      "icon": "/short/apps/Ps.png",
+      "list": [
+        [
+          {
+            "name": "",
+            "icon": "",
+            "action": [
+              {
+                "type": "",
+                "default": "",
+                "apple": ""
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Ai",
+      "icon": "/short/apps/Ai.png",
+      "list": [
+        [
+          {
+            "name": "",
+            "icon": "",
+            "action": [
+              {
+                "type": "",
+                "default": "",
+                "apple": ""
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
 }
