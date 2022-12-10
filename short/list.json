@@ -379,95 +379,287 @@
       "list": [
         [
           {
-            "name": "Ex",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#115751",
+            "name": "Copy",
+            "icon": "/short/icons/excel/copy.png",
             "action": [
               {
-                "type": "",
-                "default": "",
-                "apple": ""
+                "apple": "08,19",
+                "default": "01,19",
+                "type": "key"
               }
             ]
           }
-        ]
-      ]
-    },
-    {
-      "name": "Ae",
-      "icon": "/short/apps/Ae.png",
-      "list": [
+        ],
         [
           {
-            "name": "[",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#355DB7",
+            "name": "Paste",
+            "icon": "/short/icons/excel/paste.png",
             "action": [
               {
-                "type": "",
-                "default": "",
-                "apple": ""
+                "apple": "08,19",
+                "default": "01,19",
+                "type": "key"
               }
             ]
           }
-        ]
-      ]
-    },
-    {
-      "name": "Pr",
-      "icon": "/short/apps/Pr.png",
-      "list": [
+        ],
         [
           {
-            "name": "P",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#0271AD",
+            "name": "Paste Special",
+            "icon": "/short/icons/excel/paste_special.png",
             "action": [
               {
-                "type": "",
-                "default": "",
-                "apple": ""
+                "apple": "0C,19",
+                "default": "05,19",
+                "type": "key"
               }
             ]
           }
-        ]
-      ]
-    },
-    {
-      "name": "Ps",
-      "icon": "/short/apps/Ps.png",
-      "list": [
+        ],
         [
           {
-            "name": "",
-            "icon": "",
+            "name": "Cut",
+            "icon": "/short/icons/excel/cut.png",
             "action": [
               {
-                "type": "",
-                "default": "",
-                "apple": ""
+                "apple": "08,1B",
+                "default": "01,1B",
+                "type": "key"
               }
             ]
           }
-        ]
-      ]
-    },
-    {
-      "name": "Ai",
-      "icon": "/short/apps/Ai.png",
-      "list": [
+        ],
         [
           {
-            "name": "",
-            "icon": "",
+            "name": "Replace",
+            "icon": "/short/icons/excel/replace.png",
             "action": [
               {
-                "type": "",
-                "default": "",
-                "apple": ""
+                "apple": "01,0B",
+                "default": "01,0B",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hyperlink",
+            "icon": "/short/icons/excel/link.png",
+            "action": [
+              {
+                "apple": "08,0E",
+                "default": "01,0E",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Cell Format",
+            "icon": "/short/icons/excel/cell_format.png",
+            "action": [
+              {
+                "apple": "08,1E",
+                "default": "01,1E",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hide Rows",
+            "icon": "/short/icons/excel/hide_rows.png",
+            "action": [
+              {
+                "apple": "08,26",
+                "default": "01,26",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hide Columns",
+            "icon": "/short/icons/excel/hide_columns.png",
+            "action": [
+              {
+                "apple": "08,27",
+                "default": "01,27",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "New File",
+            "icon": "/short/icons/excel/new_file.png",
+            "action": [
+              {
+                "apple": "08,11",
+                "default": "01,11",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Open File",
+            "icon": "/short/icons/excel/open_file.png",
+            "action": [
+              {
+                "apple": "08,12",
+                "default": "01,12",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Save",
+            "icon": "/short/icons/excel/save.png",
+            "action": [
+              {
+                "apple": "08,16",
+                "default": "01,16",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Close",
+            "icon": "/short/icons/excel/close.png",
+            "action": [
+              {
+                "apple": "08,3D",
+                "default": "01,1A",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Print",
+            "icon": "/short/icons/excel/print.png",
+            "action": [
+              {
+                "apple": "08,13",
+                "default": "01,13",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Revoke",
+            "icon": "/short/icons/excel/revoke.png",
+            "action": [
+              {
+                "apple": "08,1D",
+                "default": "01,1D",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Redo",
+            "icon": "/short/icons/excel/redo.png",
+            "action": [
+              {
+                "apple": "08,1C",
+                "default": "01,1C",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Bold",
+            "icon": "/short/icons/excel/bold.png",
+            "action": [
+              {
+                "apple": "08,05",
+                "default": "01,05",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Italics",
+            "icon": "/short/icons/excel/italics.png",
+            "action": [
+              {
+                "apple": "08,0C",
+                "default": "01,0C",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Underline",
+            "icon": "/short/icons/excel/underline.png",
+            "action": [
+              {
+                "apple": "08,18",
+                "default": "01,18",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Left",
+            "icon": "/short/icons/excel/align_left.png",
+            "action": [
+              {
+                "apple": "08,0F",
+                "default": "01,0F",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Center",
+            "icon": "/short/icons/excel/align_center.png",
+            "action": [
+              {
+                "apple": "08,08",
+                "default": "01,08",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Right",
+            "icon": "/short/icons/excel/align_right.png",
+            "action": [
+              {
+                "apple": "08,15",
+                "default": "01,15",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Dispersion",
+            "icon": "/short/icons/excel/align_dispersion.png",
+            "action": [
+              {
+                "apple": "08,0D",
+                "default": "01,0D",
+                "type": "key"
               }
             ]
           }

@@ -1,0 +1,24 @@
+{
+  "next": "",
+  "list": [
+    {
+      "name": "Blender",
+      "icon": "/short/apps/blender.png",
+      "list": [
+        [
+          {
+            "name": "",
+            "icon": "",
+            "action": [
+              {
+                "type": "",
+                "default": "",
+                "apple": ""
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
