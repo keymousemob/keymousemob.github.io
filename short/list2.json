@@ -2,183 +2,130 @@
   "next": "",
   "list": [
     {
-      "name": "Default",
-      "icon": "/short/apps/app.png",
+      "name": "excel",
+      "icon": "/short/apps/excel.png",
       "list": [
         [
           {
-            "name": "Vol Down",
-            "icon": "/short/icons/system/vol_sub.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "name": "Copy",
+            "icon": "/short/icons/excel/copy.png",
             "action": [
               {
-                "type": "control",
-                "default": "2"
-              }
-            ]
-          },
-          {
-            "name": "Vol Up",
-            "icon": "/short/icons/system/vol_add.png",
-            "iconColor": "default",
-            "bgColor": "default",
-            "action": [
-              {
-                "type": "control",
-                "default": "1"
-              }
-            ]
-          },
-          {
-            "name": "Vol Mute",
-            "icon": "/short/icons/system/vol_mute.png",
-            "iconColor": "default",
-            "bgColor": "default",
-            "action": [
-              {
-                "type": "control",
-                "default": "4"
+                "apple": "08,19",
+                "default": "01,19",
+                "type": "key"
               }
             ]
           }
         ],
         [
           {
-            "name": "Previous",
-            "icon": "/short/icons/system/media_previous.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "name": "Paste",
+            "icon": "/short/icons/excel/paste.png",
             "action": [
               {
-                "type": "control",
-                "default": "20"
-              }
-            ]
-          },
-          {
-            "name": "Play Pause",
-            "icon": "/short/icons/system/media_play.png",
-            "iconColor": "default",
-            "bgColor": "default",
-            "action": [
-              {
-                "type": "control",
-                "default": "8"
-              }
-            ]
-          },
-          {
-            "name": "Next",
-            "icon": "/short/icons/system/media_next.png",
-            "iconColor": "default",
-            "bgColor": "default",
-            "action": [
-              {
-                "type": "control",
-                "default": "10"
+                "apple": "08,19",
+                "default": "01,19",
+                "type": "key"
               }
             ]
           }
         ],
         [
           {
-            "name": "capture",
-            "icon": "/short/icons/system/capture.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "name": "Paste Special",
+            "icon": "/short/icons/excel/paste_special.png",
             "action": [
               {
-                "type": "key",
-                "default": "0A,16",
-                "apple": "0A,20"
+                "apple": "0C,19",
+                "default": "05,19",
+                "type": "key"
               }
             ]
           }
         ],
         [
           {
-            "name": "lock",
-            "icon": "/short/icons/system/lock.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "name": "Cut",
+            "icon": "/short/icons/excel/cut.png",
             "action": [
               {
-                "type": "key",
-                "default": "08,0F",
-                "apple": "09,14"
+                "apple": "08,1B",
+                "default": "01,1B",
+                "type": "key"
               }
             ]
           }
-        ]
-      ]
-    },
-    {
-      "name": "ppt",
-      "icon": "/short/apps/ppt.png",
-      "list": [
+        ],
         [
           {
-            "name": "Play",
-            "icon": "/short/icons/ppt/open.png",
-            "iconColor": "",
+            "name": "Replace",
+            "icon": "/short/icons/excel/replace.png",
             "action": [
               {
-                "type": "key",
-                "default": "00,3E",
-                "apple": "08,28"
-              }
-            ]
-          },
-          {
-            "name": "Previous",
-            "icon": "/short/icons/ppt/previous.png",
-            "iconColor": "",
-            "action": [
-              {
-                "type": "key",
-                "default": "00,52",
-                "apple": "00,52"
-              }
-            ]
-          },
-          {
-            "name": "Next",
-            "icon": "/short/icons/ppt/next.png",
-            "iconColor": "",
-            "action": [
-              {
-                "type": "key",
-                "default": "00,51",
-                "apple": "00,51"
-              }
-            ]
-          },
-          {
-            "name": "Exit",
-            "icon": "/short/icons/ppt/exit.png",
-            "iconColor": "",
-            "action": [
-              {
-                "type": "key",
-                "default": "00,29",
-                "apple": "00,29"
+                "apple": "01,0B",
+                "default": "01,0B",
+                "type": "key"
               }
             ]
           }
-        ]
-      ]
-    },
-    {
-      "name": "word",
-      "icon": "/short/apps/word.png",
-      "list": [
+        ],
+        [
+          {
+            "name": "Hyperlink",
+            "icon": "/short/icons/excel/hyperlink.png",
+            "action": [
+              {
+                "apple": "08,0E",
+                "default": "01,0E",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Cell Format",
+            "icon": "/short/icons/excel/cell_format.png",
+            "action": [
+              {
+                "apple": "08,1E",
+                "default": "01,1E",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hide Rows",
+            "icon": "/short/icons/excel/hide_rows.png",
+            "action": [
+              {
+                "apple": "08,26",
+                "default": "01,26",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hide Columns",
+            "icon": "/short/icons/excel/hide_columns.png",
+            "action": [
+              {
+                "apple": "08,27",
+                "default": "01,27",
+                "type": "key"
+              }
+            ]
+          }
+        ],
         [
           {
             "name": "New File",
-            "icon": "/short/icons/word/new_file.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/new_file.png",
             "action": [
               {
                 "apple": "08,11",
@@ -191,9 +138,7 @@
         [
           {
             "name": "Open File",
-            "icon": "/short/icons/word/open_file.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/open_file.png",
             "action": [
               {
                 "apple": "08,12",
@@ -206,9 +151,7 @@
         [
           {
             "name": "Save",
-            "icon": "/short/icons/word/save.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/save.png",
             "action": [
               {
                 "apple": "08,16",
@@ -221,9 +164,7 @@
         [
           {
             "name": "Close",
-            "icon": "/short/icons/word/close.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/close.png",
             "action": [
               {
                 "apple": "08,3D",
@@ -236,9 +177,7 @@
         [
           {
             "name": "Print",
-            "icon": "/short/icons/word/print.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/print.png",
             "action": [
               {
                 "apple": "08,13",
@@ -251,9 +190,7 @@
         [
           {
             "name": "Revoke",
-            "icon": "/short/icons/word/revoke.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/revoke.png",
             "action": [
               {
                 "apple": "08,1D",
@@ -264,9 +201,7 @@
           },
           {
             "name": "Redo",
-            "icon": "/short/icons/word/redo.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/redo.png",
             "action": [
               {
                 "apple": "08,1C",
@@ -279,9 +214,7 @@
         [
           {
             "name": "Bold",
-            "icon": "/short/icons/word/bold.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/bold.png",
             "action": [
               {
                 "apple": "08,05",
@@ -292,9 +225,7 @@
           },
           {
             "name": "Italics",
-            "icon": "/short/icons/word/italics.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/italics.png",
             "action": [
               {
                 "apple": "08,0C",
@@ -305,9 +236,7 @@
           },
           {
             "name": "Underline",
-            "icon": "/short/icons/word/underline.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/underline.png",
             "action": [
               {
                 "apple": "08,18",
@@ -320,9 +249,7 @@
         [
           {
             "name": "Left",
-            "icon": "/short/icons/word/align_left.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/align_left.png",
             "action": [
               {
                 "apple": "08,0F",
@@ -333,9 +260,7 @@
           },
           {
             "name": "Center",
-            "icon": "/short/icons/word/align_center.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/align_center.png",
             "action": [
               {
                 "apple": "08,08",
@@ -346,9 +271,7 @@
           },
           {
             "name": "Right",
-            "icon": "/short/icons/word/align_right.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/align_right.png",
             "action": [
               {
                 "apple": "08,15",
@@ -359,115 +282,12 @@
           },
           {
             "name": "Dispersion",
-            "icon": "/short/icons/word/align_dispersion.png",
-            "iconColor": "default",
-            "bgColor": "default",
+            "icon": "/short/icons/excel/align_dispersion.png",
             "action": [
               {
                 "apple": "08,0D",
                 "default": "01,0D",
                 "type": "key"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "excel",
-      "icon": "/short/apps/excel.png",
-      "list": [
-        [
-          {
-            "name": "Ex",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#115751",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "Ae",
-      "icon": "/short/apps/Ae.png",
-      "list": [
-        [
-          {
-            "name": "[",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#355DB7",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "Pr",
-      "icon": "/short/apps/Pr.png",
-      "list": [
-        [
-          {
-            "name": "P",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#0271AD",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "Ps",
-      "icon": "/short/apps/Ps.png",
-      "list": [
-        [
-          {
-            "name": "",
-            "icon": "",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "Ai",
-      "icon": "/short/apps/Ai.png",
-      "list": [
-        [
-          {
-            "name": "",
-            "icon": "",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
               }
             ]
           }
