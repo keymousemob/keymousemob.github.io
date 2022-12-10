@@ -541,7 +541,7 @@
           {
             "name": "Color Setting",
             "icon": "/short/icons/ai/color_setting.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -556,7 +556,7 @@
           {
             "name": "Short Key",
             "icon": "/short/icons/ai/short_key.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -571,7 +571,7 @@
           {
             "name": "Preferences",
             "icon": "/short/icons/ai/preferences.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -586,7 +586,7 @@
           {
             "name": "Revoke",
             "icon": "/short/icons/ai/revoke.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -599,7 +599,7 @@
           {
             "name": "Redo",
             "icon": "/short/icons/ai/redo.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -614,7 +614,7 @@
           {
             "name": "Copy",
             "icon": "/short/icons/ai/copy.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -627,7 +627,7 @@
           {
             "name": "Cut",
             "icon": "/short/icons/ai/cut.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -640,7 +640,7 @@
           {
             "name": "Paste",
             "icon": "/short/icons/ai/paste.png",
-            "iconColor": "default",
+            "iconColor": "#7D7D7D",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -655,7 +655,6 @@
           {
             "name": "Paste Front",
             "icon": "/short/icons/ai/paste_front.png",
-            "iconColor": "default",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -668,7 +667,6 @@
           {
             "name": "Paste Behind",
             "icon": "/short/icons/ai/paste_behind.png",
-            "iconColor": "default",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -681,7 +679,6 @@
           {
             "name": "Paste Original",
             "icon": "/short/icons/ai/paste_original.png",
-            "iconColor": "default",
             "bgColor": "#FC7800",
             "action": [
               {
@@ -694,7 +691,6 @@
           {
             "name": "Paste All",
             "icon": "/short/icons/ai/paste_all.png",
-            "iconColor": "default",
             "bgColor": "#FC7800",
             "action": [
               {
