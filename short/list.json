@@ -381,7 +381,7 @@
           {
             "name": "Copy",
             "icon": "/short/icons/excel/copy.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,06",
@@ -395,7 +395,7 @@
           {
             "name": "Paste",
             "icon": "/short/icons/excel/paste.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,19",
@@ -409,7 +409,7 @@
           {
             "name": "Paste Special",
             "icon": "/short/icons/excel/paste_special.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "0C,19",
@@ -423,7 +423,7 @@
           {
             "name": "Cut",
             "icon": "/short/icons/excel/cut.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,1B",
@@ -437,7 +437,7 @@
           {
             "name": "Replace",
             "icon": "/short/icons/excel/replace.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "01,0B",
@@ -451,7 +451,7 @@
           {
             "name": "Hyperlink",
             "icon": "/short/icons/excel/link.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,0E",
@@ -465,7 +465,7 @@
           {
             "name": "Cell Format",
             "icon": "/short/icons/excel/cell_format.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,1E",
@@ -479,7 +479,7 @@
           {
             "name": "Hide Rows",
             "icon": "/short/icons/excel/hide_rows.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,26",
@@ -493,7 +493,7 @@
           {
             "name": "Hide Columns",
             "icon": "/short/icons/excel/hide_columns.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,27",
@@ -507,7 +507,7 @@
           {
             "name": "New File",
             "icon": "/short/icons/excel/new_file.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,11",
@@ -521,7 +521,7 @@
           {
             "name": "Open File",
             "icon": "/short/icons/excel/open_file.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,12",
@@ -535,7 +535,7 @@
           {
             "name": "Save",
             "icon": "/short/icons/excel/save.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,16",
@@ -549,7 +549,7 @@
           {
             "name": "Close",
             "icon": "/short/icons/excel/close.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,3D",
@@ -563,7 +563,7 @@
           {
             "name": "Print",
             "icon": "/short/icons/excel/print.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,13",
@@ -577,7 +577,7 @@
           {
             "name": "Revoke",
             "icon": "/short/icons/excel/revoke.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,1D",
@@ -589,7 +589,7 @@
           {
             "name": "Redo",
             "icon": "/short/icons/excel/redo.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,1C",
@@ -603,7 +603,7 @@
           {
             "name": "Bold",
             "icon": "/short/icons/excel/bold.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,05",
@@ -615,7 +615,7 @@
           {
             "name": "Italics",
             "icon": "/short/icons/excel/italics.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,0C",
@@ -627,7 +627,7 @@
           {
             "name": "Underline",
             "icon": "/short/icons/excel/underline.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,18",
@@ -641,7 +641,7 @@
           {
             "name": "Left",
             "icon": "/short/icons/excel/align_left.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,0F",
@@ -653,7 +653,7 @@
           {
             "name": "Center",
             "icon": "/short/icons/excel/align_center.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,08",
@@ -665,7 +665,7 @@
           {
             "name": "Right",
             "icon": "/short/icons/excel/align_right.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,15",
@@ -677,7 +677,7 @@
           {
             "name": "Dispersion",
             "icon": "/short/icons/excel/align_dispersion.png",
-            "bgColor": "429668",
+            "bgColor": "#429668",
             "action": [
               {
                 "apple": "08,0D",
