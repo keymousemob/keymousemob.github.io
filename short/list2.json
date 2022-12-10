@@ -73,7 +73,7 @@
         [
           {
             "name": "Hyperlink",
-            "icon": "/short/icons/excel/hyperlink.png",
+            "icon": "/short/icons/excel/link.png",
             "action": [
               {
                 "apple": "08,0E",
