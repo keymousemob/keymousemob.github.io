@@ -383,8 +383,8 @@
             "icon": "/short/icons/excel/copy.png",
             "action": [
               {
-                "apple": "08,19",
-                "default": "01,19",
+                "apple": "08,06",
+                "default": "01,06",
                 "type": "key"
               }
             ]

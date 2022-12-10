@@ -448,9 +448,10 @@
               }
             ]
           }
-        ,
+        ],
+        [
           {
-            "name": "Rotation -1°C",
+            "name": "-1° Rotation",
             "icon": "/short/icons/ps/rotation_counterclockwise_1.png",
             "iconColor": "default",
             "bgColor": "default",
@@ -463,7 +464,7 @@
             ]
           },
           {
-            "name": "Rotation 1°C",
+            "name": "1° Rotation",
             "icon": "/short/icons/ps/rotation_clockwise_1.png",
             "iconColor": "default",
             "bgColor": "default",
@@ -476,7 +477,7 @@
             ]
           },
           {
-            "name": "Rotation -15°C",
+            "name": "-15° Rotation",
             "icon": "/short/icons/ps/rotation_counterclockwise_15.png",
             "iconColor": "default",
             "bgColor": "default",
@@ -489,7 +490,7 @@
             ]
           },
           {
-            "name": "Rotation 15°C",
+            "name": "15° Rotation",
             "icon": "/short/icons/ps/rotation_clockwise_15.png",
             "iconColor": "default",
             "bgColor": "default",
@@ -533,6 +534,172 @@
       ]
     },
     {
+      "name": "Ai",
+      "icon": "/short/apps/Ai.png",
+      "list": [
+        [
+          {
+            "name": "Revoke",
+            "icon": "/short/icons/ai/revoke.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,1D",
+                "default": "01,1D",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Redo",
+            "icon": "/short/icons/ai/redo.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "0A,1D",
+                "default": "06,1D",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Copy",
+            "icon": "/short/icons/ai/copy.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,06",
+                "default": "01,06",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Cut",
+            "icon": "/short/icons/ai/cut.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,1B",
+                "default": "01,1B",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Paste",
+            "icon": "/short/icons/ai/paste.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,19",
+                "default": "01,19",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paste Front",
+            "icon": "/short/icons/ai/paste_front.png",
+            "action": [
+              {
+                "apple": "08,09",
+                "default": "01,09",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Paste Behind",
+            "icon": "/short/icons/ai/paste_behind.png",
+            "action": [
+              {
+                "apple": "08,05",
+                "default": "01,05",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Paste Original",
+            "icon": "/short/icons/ai/paste_original.png",
+            "action": [
+              {
+                "apple": "0A,05",
+                "default": "03,05",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Paste All",
+            "icon": "/short/icons/ai/paste_all.png",
+            "action": [
+              {
+                "apple": "0E,05",
+                "default": "07,05",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Color Setting",
+            "icon": "/short/icons/ai/color_setting.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "0A,0E",
+                "default": "03,0E",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Short Key",
+            "icon": "/short/icons/ai/short_key.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "0E,0E",
+                "default": "07,0E",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Preferences",
+            "icon": "/short/icons/ai/preferences.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "apple": "08,0E",
+                "default": "01,0E",
+                "type": "key"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
       "name": "Ae",
       "icon": "/short/apps/Ae.png",
       "list": [
@@ -563,25 +730,6 @@
             "icon": "",
             "iconColor": "",
             "bgColor": "#0271AD",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "Ai",
-      "icon": "/short/apps/Ai.png",
-      "list": [
-        [
-          {
-            "name": "",
-            "icon": "",
             "action": [
               {
                 "type": "",
