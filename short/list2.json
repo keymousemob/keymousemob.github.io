@@ -704,15 +704,379 @@
       ]
     },
     {
+      "name": "Pr",
+      "icon": "/short/apps/Pr.png",
+      "list": [
+        [
+          {
+            "name": "Selection Tool",
+            "icon": "/short/icons/pr/V.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,19",
+                "default": "00,19",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Track Select Forward Tool",
+            "icon": "/short/icons/pr/A.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,04",
+                "default": "00,04",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Ripple Edit Tool",
+            "icon": "/short/icons/pr/B.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,05",
+                "default": "00,05",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Razor Tool",
+            "icon": "/short/icons/pr/C.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,06",
+                "default": "00,06",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Slip Tool",
+            "icon": "/short/icons/pr/Y.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,1C",
+                "default": "00,1C",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pen Tool",
+            "icon": "/short/icons/pr/P.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,13",
+                "default": "00,13",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hand Tool",
+            "icon": "/short/icons/pr/H.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,0B",
+                "default": "00,0B",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Type Tool",
+            "icon": "/short/icons/pr/T.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,17",
+                "default": "00,17",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Add Marker",
+            "icon": "/short/icons/pr/M.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,10",
+                "default": "00,10",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Mark In",
+            "icon": "/short/icons/pr/I.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,0C",
+                "default": "00,0C",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Mark Out",
+            "icon": "/short/icons/pr/O.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,12",
+                "default": "00,12",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Go to In",
+            "icon": "/short/icons/pr/SI.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "02,0C",
+                "default": "02,0C",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Step Back 1 Frame",
+            "icon": "/short/icons/pr/Left.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,50",
+                "default": "00,50",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Play-Stop Toggle",
+            "icon": "/short/icons/pr/Space.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,CD",
+                "default": "00,CD",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Step Forward 1 Frame",
+            "icon": "/short/icons/pr/Right.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,4F",
+                "default": "00,4F",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Go to Out",
+            "icon": "/short/icons/pr/SO.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "02,12",
+                "default": "02,12",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Lift",
+            "icon": "/short/icons/pr/Lift.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,33",
+                "default": "00,33",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Extract",
+            "icon": "/short/icons/pr/Extract.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,34",
+                "default": "00,34",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Export Frame",
+            "icon": "/short/icons/pr/SE.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "02,08",
+                "default": "02,08",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Make Subclip",
+            "icon": "/short/icons/pr/make_subclip.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "08,18",
+                "default": "01,18",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Audio Gain",
+            "icon": "/short/icons/pr/audio_gain.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "00,0A",
+                "default": "00,0A",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Clip Speed/Duration",
+            "icon": "/short/icons/pr/clip_speed.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "08,15",
+                "default": "01,15",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Group",
+            "icon": "/short/icons/pr/group.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "08,0A",
+                "default": "01,0A",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Ungroup",
+            "icon": "/short/icons/pr/ungroup.png",
+            "iconColor": "default",
+            "bgColor": "#E26DFF",
+            "action": [
+              {
+                "apple": "0A,0A",
+                "default": "03,0A",
+                "type": "key"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
       "name": "Ae",
       "icon": "/short/apps/Ae.png",
       "list": [
         [
           {
-            "name": "[",
+            "name": "Ae",
             "icon": "",
             "iconColor": "",
-            "bgColor": "#355DB7",
+            "bgColor": "#CB8DFE",
             "action": [
               {
                 "type": "",
@@ -725,15 +1089,36 @@
       ]
     },
     {
-      "name": "Pr",
-      "icon": "/short/apps/Pr.png",
+      "name": "An",
+      "icon": "/short/apps/An.png",
       "list": [
         [
           {
-            "name": "P",
+            "name": "An",
             "icon": "",
             "iconColor": "",
-            "bgColor": "#0271AD",
+            "bgColor": "#FF4A19",
+            "action": [
+              {
+                "type": "",
+                "default": "",
+                "apple": ""
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Au",
+      "icon": "/short/apps/Au.png",
+      "list": [
+        [
+          {
+            "name": "Au",
+            "icon": "",
+            "iconColor": "",
+            "bgColor": "#00EDC5",
             "action": [
               {
                 "type": "",
