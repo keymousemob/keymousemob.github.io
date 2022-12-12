@@ -1073,15 +1073,415 @@
       "list": [
         [
           {
-            "name": "Ae",
-            "icon": "",
-            "iconColor": "",
+            "name": "New Composition",
+            "icon": "/short/icons/ae/new_composition.png",
+            "iconColor": "default",
             "bgColor": "#CB8DFE",
             "action": [
               {
-                "type": "",
-                "default": "",
-                "apple": ""
+                "apple": "08,11",
+                "default": "01,11",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Selection Tool",
+            "icon": "/short/icons/ae/V.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,19",
+                "default": "00,19",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hand Tool",
+            "icon": "/short/icons/ae/H.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,0B",
+                "default": "00,0B",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Zoom Tool",
+            "icon": "/short/icons/ae/Z.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,1D",
+                "default": "00,1D",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Rotation Tool",
+            "icon": "/short/icons/ae/W.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,1D",
+                "default": "00,1D",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Unified Camera Tool",
+            "icon": "/short/icons/ae/C.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,06",
+                "default": "00,06",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pan Behind (Anchor Point) Tool",
+            "icon": "/short/icons/ae/Y.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,1C",
+                "default": "00,1C",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Rectangle Tool",
+            "icon": "/short/icons/ae/Q.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,14",
+                "default": "00,14",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pen Tool",
+            "icon": "/short/icons/ae/P.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "02,13",
+                "default": "02,13",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Horizontal Type Tool",
+            "icon": "/short/icons/ae/T.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "00,17",
+                "default": "00,17",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Brush Tool",
+            "icon": "/short/icons/ae/CB.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,05",
+                "default": "01,05",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Roto Brush Tool",
+            "icon": "/short/icons/ae/OW.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "04,1A",
+                "default": "04,1A",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Puppet Position Pin Tool",
+            "icon": "/short/icons/ae/CP.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,13",
+                "default": "01,13",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Fit to Comp",
+            "icon": "/short/icons/ae/fit_to_comp.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0C,09",
+                "default": "05,09",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Fit to Comp Width",
+            "icon": "/short/icons/ae/fit_to_comp_width.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0E,0B",
+                "default": "07,0B",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Fit to Comp Height",
+            "icon": "/short/icons/ae/fit_to_comp_height.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0E,0A",
+                "default": "07,0A",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Group",
+            "icon": "/short/icons/ae/group.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,0A",
+                "default": "01,0A",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Ungroup",
+            "icon": "/short/icons/ae/ungroup.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0A,0A",
+                "default": "03,0A",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paste Layers at Current Time",
+            "icon": "/short/icons/ae/paste_layers_at_current_time.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0C,19",
+                "default": "05,19",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Bring Layer Forward",
+            "icon": "/short/icons/ae/bring_layer_forward.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0C,52",
+                "default": "01,2F",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Send Layer Backward",
+            "icon": "/short/icons/ae/send_layer_backward.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0C,51",
+                "default": "01,30",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Select Previous Effect",
+            "icon": "/short/icons/ae/select_previous_effect.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,52",
+                "default": "01,52",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Select Next Effect",
+            "icon": "/short/icons/ae/select_next_effect.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,51",
+                "default": "01,51",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Go Back 1 Frame",
+            "icon": "/short/icons/ae/go_back_1_frame.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,50",
+                "default": "01,50",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Go Forward 1 Frame",
+            "icon": "/short/icons/ae/go_forward_1_frame.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,4F",
+                "default": "01,4F",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Go Back 10 Frame",
+            "icon": "/short/icons/ae/go_back_10_frame.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0A,50",
+                "default": "03,50",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Go Forward 10 Frame",
+            "icon": "/short/icons/ae/go_forward_10_frame.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0A,4F",
+                "default": "03,4F",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Lock Layers",
+            "icon": "/short/icons/ae/lock_layers.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "08,0F",
+                "default": "01,0F",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Unlock Layers",
+            "icon": "/short/icons/ae/unlock_layers.png",
+            "iconColor": "default",
+            "bgColor": "#CB8DFE",
+            "action": [
+              {
+                "apple": "0A,0F",
+                "default": "03,0F",
+                "type": "key"
               }
             ]
           }
