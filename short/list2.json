@@ -1489,6 +1489,257 @@
       ]
     },
     {
+      "name": "Au",
+      "icon": "/short/apps/Au.png",
+      "list": [
+        [
+          {
+            "name": "Waveform",
+            "icon": "/short/icons/au/9.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,26",
+                "default": "00,26",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Multitrack",
+            "icon": "/short/icons/au/0.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,27",
+                "default": "00,27",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Show Spectral Frequency Display",
+            "icon": "/short/icons/au/SD.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "02,07",
+                "default": "02,07",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Move Tool",
+            "icon": "/short/icons/au/V.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,19",
+                "default": "00,19",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Razor Selected Clips Tool",
+            "icon": "/short/icons/au/R.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,15",
+                "default": "00,15",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Slip Tool",
+            "icon": "/short/icons/au/Y.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,1C",
+                "default": "00,1C",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Time Selection Tool",
+            "icon": "/short/icons/au/T.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,17",
+                "default": "00,17",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Marquee Selection Tool",
+            "icon": "/short/icons/au/E.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,08",
+                "default": "00,08",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Lasso Selection Tool",
+            "icon": "/short/icons/au/D.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,07",
+                "default": "00,07",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paintbrush Selection Tool",
+            "icon": "/short/icons/au/P.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,13",
+                "default": "00,13",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Spot Healing Brush Tool",
+            "icon": "/short/icons/au/B.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "00,05",
+                "default": "00,05",
+                "type": "key"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Nudge Down",
+            "icon": "/short/icons/au/nudge_down.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "04,51",
+                "default": "04,51",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Up",
+            "icon": "/short/icons/au/nudge_up.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "04,52",
+                "default": "04,52",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Left",
+            "icon": "/short/icons/au/nudge_left.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "04,36",
+                "default": "04,36",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Right",
+            "icon": "/short/icons/au/nudge_right.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "04,37",
+                "default": "04,37",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Left 5",
+            "icon": "/short/icons/au/nudge_left_5.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "06,36",
+                "default": "06,36",
+                "type": "key"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Right 5",
+            "icon": "/short/icons/au/nudge_right_5.png",
+            "iconColor": "default",
+            "bgColor": "#00EDC5",
+            "action": [
+              {
+                "apple": "06,37",
+                "default": "06,37",
+                "type": "key"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
       "name": "An",
       "icon": "/short/apps/An.png",
       "list": [
@@ -1498,27 +1749,6 @@
             "icon": "",
             "iconColor": "",
             "bgColor": "#FF4A19",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "Au",
-      "icon": "/short/apps/Au.png",
-      "list": [
-        [
-          {
-            "name": "Au",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#00EDC5",
             "action": [
               {
                 "type": "",
