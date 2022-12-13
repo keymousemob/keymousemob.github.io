@@ -1,5 +1,5 @@
 {
-  "next": "/short/list3.json",
+  "next": "",
   "list": [
     {
       "name": "Ps",
@@ -1733,27 +1733,6 @@
                 "apple": "06,37",
                 "default": "06,37",
                 "type": "key"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "name": "An",
-      "icon": "/short/apps/An.png",
-      "list": [
-        [
-          {
-            "name": "An",
-            "icon": "",
-            "iconColor": "",
-            "bgColor": "#FF4A19",
-            "action": [
-              {
-                "type": "",
-                "default": "",
-                "apple": ""
               }
             ]
           }
