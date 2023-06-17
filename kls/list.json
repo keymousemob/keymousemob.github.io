@@ -19,7 +19,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/JP.jpg",
       "kls": "/kls/JP.kls",
-      "size": 75998,
+      "size": 76072,
       "name": "マジックキーボード",
       "des": "日本語マジックキーボード [ライトとダーク]",
       "md5": "03d851c51073bc64f1979ff67ce7e728"
@@ -32,7 +32,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/FR.jpg",
       "kls": "/kls/FR.kls",
-      "size": 75590,
+      "size": 75679,
       "name": "Clavier Magique",
       "des": "Clavier Magique en français [clair et sombre]",
       "md5": "bb53a2b181861aaf0bf3ba7a43589fc6"
@@ -44,7 +44,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/DE.jpg",
       "kls": "/kls/DE.kls",
-      "size": 75432,
+      "size": 75588,
       "name": "Magische Tastatur",
       "des": "Deutsche Magische Tastatur [hell und dunkel]",
       "md5": "2979c11a002c7133e86e02911ff6bd54"
@@ -56,7 +56,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/KR.jpg",
       "kls": "/kls/KR.kls",
-      "size": 75432,
+      "size": 75758,
       "name": "매직 키보드",
       "des": "한국어 매직 키보드 [라이트와 다크]",
       "md5": "80269b3797497450d46a4369add4b248"
@@ -68,7 +68,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/TH.jpg",
       "kls": "/kls/TH.kls",
-      "size": 75432,
+      "size": 76099,
       "name": "แป้นพิมพ์มายากีคีย์บอร์ด",
       "des": "แป้นพิมพ์มายากีภาษาไทย [แสงและมืด]",
       "md5": "a83f87e073f87dc48b49c068e6c239af"
@@ -80,7 +80,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/RU.jpg",
       "kls": "/kls/RU.kls",
-      "size": 75432,
+      "size": 75781,
       "name": "Магическая клавиатура",
       "des": "Магическая клавиатура на русском языке [светлая и темная]",
       "md5": "ac5082d0e57e1dec6d478080fbd50ca8"
