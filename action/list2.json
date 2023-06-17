@@ -1,0 +1,1742 @@
+{
+  "list": [
+    {
+      "name": "Ps",
+      "icon": "/short/apps/Ps.png",
+      "list": [
+        [
+          {
+            "name": "Move Tool",
+            "icon": "/short/icons/ps/A.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift a",
+                "default": "shift a",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Marquee Tool",
+            "icon": "/short/icons/ps/M.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift m",
+                "default": "shift m",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Lasso Tool",
+            "icon": "/short/icons/ps/L.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift l",
+                "default": "shift l",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Magic Wand Tool",
+            "icon": "/short/icons/ps/W.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift w",
+                "default": "shift w",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Crop Tool",
+            "icon": "/short/icons/ps/C.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift c",
+                "default": "shift c",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Frame Tool",
+            "icon": "/short/icons/ps/K.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift k",
+                "default": "shift k",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Eyedropper Tool",
+            "icon": "/short/icons/ps/I.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift i",
+                "default": "shift i",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Spot Healing Brush Tool",
+            "icon": "/short/icons/ps/J.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift j",
+                "default": "shift j",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Brush Tool",
+            "icon": "/short/icons/ps/B.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift b",
+                "default": "shift b",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Clone Stamp Tool",
+            "icon": "/short/icons/ps/S.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift s",
+                "default": "shift s",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "History Brush Tool",
+            "icon": "/short/icons/ps/Y.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift y",
+                "default": "shift y",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Eraser Tool",
+            "icon": "/short/icons/ps/E.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift e",
+                "default": "shift e",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Gradient Tool",
+            "icon": "/short/icons/ps/G.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift g",
+                "default": "shift g",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Dodge Tool",
+            "icon": "/short/icons/ps/O.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift o",
+                "default": "shift o",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pen Tool",
+            "icon": "/short/icons/ps/P.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift p",
+                "default": "shift p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Type Tool",
+            "icon": "/short/icons/ps/T.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift t",
+                "default": "shift t",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Path Selection Tool",
+            "icon": "/short/icons/ps/A.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift a",
+                "default": "shift a",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Rectangle Tool",
+            "icon": "/short/icons/ps/U.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift u",
+                "default": "shift u",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hand Tool",
+            "icon": "/short/icons/ps/H.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift h",
+                "default": "shift h",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Zoom Tool",
+            "icon": "/short/icons/ps/Z.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift z",
+                "default": "shift z",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Default Color",
+            "icon": "/short/icons/ps/D.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "d",
+                "default": "d",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Switch Color",
+            "icon": "/short/icons/ps/X.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "x",
+                "default": "x",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Edit in Standard Mode",
+            "icon": "/short/icons/ps/Q.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift q",
+                "default": "shift q",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Standard Screen Mode",
+            "icon": "/short/icons/ps/F.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift f",
+                "default": "shift f",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Close Other",
+            "icon": "/short/icons/ps/close_other.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "win alt p",
+                "default": "ctrl alt p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Transform",
+            "icon": "/short/icons/ps/transform.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "win t",
+                "default": "ctrl t",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Decrease",
+            "icon": "/short/icons/ps/decrease.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "[",
+                "default": "[",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Increase",
+            "icon": "/short/icons/ps/increase.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "]",
+                "default": "]",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Decrease Hardness",
+            "icon": "/short/icons/ps/decrease_hardness.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift [",
+                "default": "shift [",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Increase Hardness",
+            "icon": "/short/icons/ps/increase_hardness.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift ]",
+                "default": "shift ]",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "-1° Rotation",
+            "icon": "/short/icons/ps/rotation_counterclockwise_1.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "left_arrow",
+                "default": "left_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "1° Rotation",
+            "icon": "/short/icons/ps/rotation_clockwise_1.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "right_arrow",
+                "default": "right_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "-15° Rotation",
+            "icon": "/short/icons/ps/rotation_counterclockwise_15.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift left_arrow",
+                "default": "shift left_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "15° Rotation",
+            "icon": "/short/icons/ps/rotation_clockwise_15.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "shift right_arrow",
+                "default": "shift right_arrow",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Copy New",
+            "icon": "/short/icons/ps/copy_new.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "win j",
+                "default": "ctrl j",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Cut New",
+            "icon": "/short/icons/ps/cut_new.png",
+            "iconColor": "default",
+            "bgColor": "#00C8FF",
+            "action": [
+              {
+                "apple": "win shift j",
+                "default": "shift ctrl j",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Ai",
+      "icon": "/short/apps/Ai.png",
+      "list": [
+        [
+          {
+            "name": "Color Setting",
+            "icon": "/short/icons/ai/color_setting.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win shift k",
+                "default": "shift ctrl k",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Short Key",
+            "icon": "/short/icons/ai/short_key.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win shift alt k",
+                "default": "shift ctrl alt k",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Preferences",
+            "icon": "/short/icons/ai/preferences.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win k",
+                "default": "ctrl k",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Revoke",
+            "icon": "/short/icons/ai/revoke.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win z",
+                "default": "ctrl z",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Redo",
+            "icon": "/short/icons/ai/redo.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win shift z",
+                "default": "shift alt z",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Copy",
+            "icon": "/short/icons/ai/copy.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win c",
+                "default": "ctrl c",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Cut",
+            "icon": "/short/icons/ai/cut.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win x",
+                "default": "ctrl x",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Paste",
+            "icon": "/short/icons/ai/paste.png",
+            "iconColor": "#261300",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win v",
+                "default": "ctrl v",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paste Front",
+            "icon": "/short/icons/ai/paste_front.png",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win f",
+                "default": "ctrl f",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Paste Behind",
+            "icon": "/short/icons/ai/paste_behind.png",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win b",
+                "default": "ctrl b",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Paste Original",
+            "icon": "/short/icons/ai/paste_original.png",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win shift b",
+                "default": "shift ctrl b",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Paste All",
+            "icon": "/short/icons/ai/paste_all.png",
+            "bgColor": "#FF7C00",
+            "action": [
+              {
+                "apple": "win shift alt b",
+                "default": "shift ctrl alt b",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Pr",
+      "icon": "/short/apps/Pr.png",
+      "list": [
+        [
+          {
+            "name": "Selection Tool",
+            "icon": "/short/icons/pr/V.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "v",
+                "default": "v",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Track Select Forward Tool",
+            "icon": "/short/icons/pr/A.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "a",
+                "default": "a",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Ripple Edit Tool",
+            "icon": "/short/icons/pr/B.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "b",
+                "default": "b",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Razor Tool",
+            "icon": "/short/icons/pr/C.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "c",
+                "default": "c",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Slip Tool",
+            "icon": "/short/icons/pr/Y.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "y",
+                "default": "y",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pen Tool",
+            "icon": "/short/icons/pr/P.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "p",
+                "default": "p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hand Tool",
+            "icon": "/short/icons/pr/H.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "h",
+                "default": "h",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Type Tool",
+            "icon": "/short/icons/pr/T.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "t",
+                "default": "t",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Add Marker",
+            "icon": "/short/icons/pr/M.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "m",
+                "default": "m",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Mark In",
+            "icon": "/short/icons/pr/I.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "i",
+                "default": "i",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Mark Out",
+            "icon": "/short/icons/pr/O.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "o",
+                "default": "o",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Go to In",
+            "icon": "/short/icons/pr/SI.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "shift i",
+                "default": "shift i",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Step Back 1 Frame",
+            "icon": "/short/icons/pr/Left.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "left_arrow",
+                "default": "left_arrow",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Play-Stop Toggle",
+            "icon": "/short/icons/pr/Space.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "undefined",
+                "default": "undefined",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Step Forward 1 Frame",
+            "icon": "/short/icons/pr/Right.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "right_arrow",
+                "default": "right_arrow",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Go to Out",
+            "icon": "/short/icons/pr/SO.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "shift o",
+                "default": "shift o",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Lift",
+            "icon": "/short/icons/pr/Lift.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": ";",
+                "default": ";",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Extract",
+            "icon": "/short/icons/pr/Extract.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "'",
+                "default": "'",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Export Frame",
+            "icon": "/short/icons/pr/SE.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "shift e",
+                "default": "shift e",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Make Subclip",
+            "icon": "/short/icons/pr/make_subclip.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "win u",
+                "default": "ctrl u",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Audio Gain",
+            "icon": "/short/icons/pr/audio_gain.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "g",
+                "default": "g",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Clip Speed/Duration",
+            "icon": "/short/icons/pr/clip_speed.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "win r",
+                "default": "ctrl r",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Group",
+            "icon": "/short/icons/pr/group.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "win g",
+                "default": "ctrl g",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Ungroup",
+            "icon": "/short/icons/pr/ungroup.png",
+            "iconColor": "default",
+            "bgColor": "#EA77FF",
+            "action": [
+              {
+                "apple": "win shift g",
+                "default": "shift ctrl g",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Ae",
+      "icon": "/short/apps/Ae.png",
+      "list": [
+        [
+          {
+            "name": "New Composition",
+            "icon": "/short/icons/ae/new_composition.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win n",
+                "default": "ctrl n",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Selection Tool",
+            "icon": "/short/icons/ae/V.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "v",
+                "default": "v",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hand Tool",
+            "icon": "/short/icons/ae/H.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "h",
+                "default": "h",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Zoom Tool",
+            "icon": "/short/icons/ae/Z.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "z",
+                "default": "z",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Rotation Tool",
+            "icon": "/short/icons/ae/W.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "z",
+                "default": "z",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Unified Camera Tool",
+            "icon": "/short/icons/ae/C.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "c",
+                "default": "c",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pan Behind (Anchor Point) Tool",
+            "icon": "/short/icons/ae/Y.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "y",
+                "default": "y",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Rectangle Tool",
+            "icon": "/short/icons/ae/Q.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "q",
+                "default": "q",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Pen Tool",
+            "icon": "/short/icons/ae/P.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "shift p",
+                "default": "shift p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Horizontal Type Tool",
+            "icon": "/short/icons/ae/T.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "t",
+                "default": "t",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Brush Tool",
+            "icon": "/short/icons/ae/CB.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win b",
+                "default": "ctrl b",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Roto Brush Tool",
+            "icon": "/short/icons/ae/OW.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "alt w",
+                "default": "alt w",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Puppet Position Pin Tool",
+            "icon": "/short/icons/ae/CP.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win p",
+                "default": "ctrl p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Fit to Comp",
+            "icon": "/short/icons/ae/fit_to_comp.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win alt f",
+                "default": "ctrl alt f",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Fit to Comp Width",
+            "icon": "/short/icons/ae/fit_to_comp_width.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win shift alt h",
+                "default": "shift ctrl alt h",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Fit to Comp Height",
+            "icon": "/short/icons/ae/fit_to_comp_height.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win shift alt g",
+                "default": "shift ctrl alt g",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Group",
+            "icon": "/short/icons/ae/group.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win g",
+                "default": "ctrl g",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Ungroup",
+            "icon": "/short/icons/ae/ungroup.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win shift g",
+                "default": "shift ctrl g",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paste Layers at Current Time",
+            "icon": "/short/icons/ae/paste_layers_at_current_time.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win alt v",
+                "default": "ctrl alt v",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Bring Layer Forward",
+            "icon": "/short/icons/ae/bring_layer_forward.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win alt up_arrow",
+                "default": "ctrl [",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Send Layer Backward",
+            "icon": "/short/icons/ae/send_layer_backward.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win alt down_arrow",
+                "default": "ctrl ]",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Select Previous Effect",
+            "icon": "/short/icons/ae/select_previous_effect.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win up_arrow",
+                "default": "ctrl up_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Select Next Effect",
+            "icon": "/short/icons/ae/select_next_effect.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win down_arrow",
+                "default": "ctrl down_arrow",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Go Back 1 Frame",
+            "icon": "/short/icons/ae/go_back_1_frame.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win left_arrow",
+                "default": "ctrl left_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Go Forward 1 Frame",
+            "icon": "/short/icons/ae/go_forward_1_frame.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win right_arrow",
+                "default": "ctrl right_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Go Back 10 Frame",
+            "icon": "/short/icons/ae/go_back_10_frame.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win shift left_arrow",
+                "default": "shift ctrl left_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Go Forward 10 Frame",
+            "icon": "/short/icons/ae/go_forward_10_frame.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win shift right_arrow",
+                "default": "shift ctrl right_arrow",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Lock Layers",
+            "icon": "/short/icons/ae/lock_layers.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win l",
+                "default": "ctrl l",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Unlock Layers",
+            "icon": "/short/icons/ae/unlock_layers.png",
+            "iconColor": "default",
+            "bgColor": "#D291FF",
+            "action": [
+              {
+                "apple": "win shift l",
+                "default": "shift ctrl l",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Au",
+      "icon": "/short/apps/Au.png",
+      "list": [
+        [
+          {
+            "name": "Waveform",
+            "icon": "/short/icons/au/9.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "9",
+                "default": "9",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Multitrack",
+            "icon": "/short/icons/au/0.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "0",
+                "default": "0",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Show Spectral Frequency Display",
+            "icon": "/short/icons/au/SD.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "shift d",
+                "default": "shift d",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Move Tool",
+            "icon": "/short/icons/au/V.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "v",
+                "default": "v",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Razor Selected Clips Tool",
+            "icon": "/short/icons/au/R.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "r",
+                "default": "r",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Slip Tool",
+            "icon": "/short/icons/au/Y.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "y",
+                "default": "y",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Time Selection Tool",
+            "icon": "/short/icons/au/T.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "t",
+                "default": "t",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Marquee Selection Tool",
+            "icon": "/short/icons/au/E.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "e",
+                "default": "e",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Lasso Selection Tool",
+            "icon": "/short/icons/au/D.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "d",
+                "default": "d",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paintbrush Selection Tool",
+            "icon": "/short/icons/au/P.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "p",
+                "default": "p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Spot Healing Brush Tool",
+            "icon": "/short/icons/au/B.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "b",
+                "default": "b",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Nudge Down",
+            "icon": "/short/icons/au/nudge_down.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "alt down_arrow",
+                "default": "alt down_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Up",
+            "icon": "/short/icons/au/nudge_up.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "alt up_arrow",
+                "default": "alt up_arrow",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Left",
+            "icon": "/short/icons/au/nudge_left.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "alt ,",
+                "default": "alt ,",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Right",
+            "icon": "/short/icons/au/nudge_right.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "alt .",
+                "default": "alt .",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Left 5",
+            "icon": "/short/icons/au/nudge_left_5.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "shift alt ,",
+                "default": "shift alt ,",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Nudge Right 5",
+            "icon": "/short/icons/au/nudge_right_5.png",
+            "iconColor": "default",
+            "bgColor": "#00E4BB",
+            "action": [
+              {
+                "apple": "shift alt .",
+                "default": "shift alt .",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
