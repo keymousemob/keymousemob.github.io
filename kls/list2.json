@@ -8,7 +8,7 @@
       "vip": true,
       "preview": "/kls/FIRE_EN.jpg",
       "kls": "/kls/FIRE_EN.kls",
-      "size": 75432,
+      "size": 75099,
       "name": "Magic Keyboard",
       "des": "English Magic Keyboard [light and dark]",
       "md5": "fa5f042d3c4c543893aaa990978ba4d3"
@@ -21,10 +21,10 @@
       "vip": true,
       "preview": "/kls/FIRE_JP.jpg",
       "kls": "/kls/FIRE_JP.kls",
-      "size": 76072,
+      "size": 75790,
       "name": "マジックキーボード",
       "des": "日本語マジックキーボード [ライトとダーク]",
-      "md5": "5e78433f7cfbff77780965f270e99ce7"
+      "md5": "212eb7b55b2b8d2d1779e770f1f0fb0a"
     },
     {
       "_id": 10,
@@ -35,7 +35,7 @@
       "vip": true,
       "preview": "/kls/FIRE_FR.jpg",
       "kls": "/kls/FIRE_FR.kls",
-      "size": 75679,
+      "size": 75376,
       "name": "Clavier Magique",
       "des": "Clavier Magique en français [clair et sombre]",
       "md5": "5b4a16d2d863f3efadf52b9cfdc75987"
@@ -48,7 +48,7 @@
       "vip": true,
       "preview": "/kls/FIRE_DE.jpg",
       "kls": "/kls/FIRE_DE.kls",
-      "size": 75588,
+      "size": 75265,
       "name": "Magische Tastatur",
       "des": "Deutsche Magische Tastatur [hell und dunkel]",
       "md5": "a5545648cce232e6916e99a258bab0f2"
@@ -61,7 +61,7 @@
       "vip": true,
       "preview": "/kls/FIRE_KR.jpg",
       "kls": "/kls/FIRE_KR.kls",
-      "size": 75758,
+      "size": 75457,
       "name": "매직 키보드",
       "des": "한국어 매직 키보드 [라이트와 다크]",
       "md5": "91e17b1526df146b3facd5ca101d39f5"
@@ -74,7 +74,7 @@
       "vip": true,
       "preview": "/kls/FIRE_TH.jpg",
       "kls": "/kls/FIRE_TH.kls",
-      "size": 76099,
+      "size": 75790,
       "name": "แป้นพิมพ์มายากีคีย์บอร์ด",
       "des": "แป้นพิมพ์มายากีภาษาไทย [แสงและมืด]",
       "md5": "9c10c0ffddac56e3cf47b5521033e5cc"
@@ -87,7 +87,7 @@
       "vip": true,
       "preview": "/kls/FIRE_RU.jpg",
       "kls": "/kls/FIRE_RU.kls",
-      "size": 75781,
+      "size": 75494,
       "name": "Магическая клавиатура",
       "des": "Магическая клавиатура на русском языке [светлая и темная]",
       "md5": "c874456a8f0114362215a54b9700f743"

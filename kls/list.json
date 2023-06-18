@@ -20,10 +20,10 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/JP.jpg",
       "kls": "/kls/JP.kls",
-      "size": 76072,
+      "size": 76063,
       "name": "マジックキーボード",
       "des": "日本語マジックキーボード [ライトとダーク]",
-      "md5": "30fb3407c32dff42a1b40205323be7fa"
+      "md5": "36849e037e70d116f187edc527a2182b"
     },
     {
       "_id": 3,
@@ -33,7 +33,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/FR.jpg",
       "kls": "/kls/FR.kls",
-      "size": 75679,
+      "size": 75677,
       "name": "Clavier Magique",
       "des": "Clavier Magique en français [clair et sombre]",
       "md5": "be9d50f16a5011e5245912961e43a6cd"
@@ -45,7 +45,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/DE.jpg",
       "kls": "/kls/DE.kls",
-      "size": 75588,
+      "size": 75586,
       "name": "Magische Tastatur",
       "des": "Deutsche Magische Tastatur [hell und dunkel]",
       "md5": "ddc936d07d7e2b1dc795e41268eb5069"
@@ -57,7 +57,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/KR.jpg",
       "kls": "/kls/KR.kls",
-      "size": 75758,
+      "size": 75755,
       "name": "매직 키보드",
       "des": "한국어 매직 키보드 [라이트와 다크]",
       "md5": "bb8a299e9cda86f89eed5955c6fd9a3c"
@@ -69,7 +69,7 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/TH.jpg",
       "kls": "/kls/TH.kls",
-      "size": 76099,
+      "size": 76098,
       "name": "แป้นพิมพ์มายากีคีย์บอร์ด",
       "des": "แป้นพิมพ์มายากีภาษาไทย [แสงและมืด]",
       "md5": "e62d176b7e5e2d363a87fffcd916dba2"
