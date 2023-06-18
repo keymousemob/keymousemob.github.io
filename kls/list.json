@@ -1,4 +1,5 @@
 {
+  "next": "/kls/list2.json",
   "list": [
     {
       "_id": 1,
@@ -10,7 +11,7 @@
       "size": 75432,
       "name": "Magic Keyboard",
       "des": "English Magic Keyboard [light and dark]",
-      "md5": "AC71F2F012B77273F88BA85DEB46D3FC"
+      "md5": "716839c8686172003abd625c1d97678d"
     },
     {
       "_id": 2,
@@ -22,7 +23,7 @@
       "size": 76072,
       "name": "マジックキーボード",
       "des": "日本語マジックキーボード [ライトとダーク]",
-      "md5": "03d851c51073bc64f1979ff67ce7e728"
+      "md5": "30fb3407c32dff42a1b40205323be7fa"
     },
     {
       "_id": 3,
@@ -35,7 +36,7 @@
       "size": 75679,
       "name": "Clavier Magique",
       "des": "Clavier Magique en français [clair et sombre]",
-      "md5": "bb53a2b181861aaf0bf3ba7a43589fc6"
+      "md5": "be9d50f16a5011e5245912961e43a6cd"
     },
     {
       "_id": 4,
@@ -47,7 +48,7 @@
       "size": 75588,
       "name": "Magische Tastatur",
       "des": "Deutsche Magische Tastatur [hell und dunkel]",
-      "md5": "2979c11a002c7133e86e02911ff6bd54"
+      "md5": "ddc936d07d7e2b1dc795e41268eb5069"
     },
     {
       "_id": 5,
@@ -59,7 +60,7 @@
       "size": 75758,
       "name": "매직 키보드",
       "des": "한국어 매직 키보드 [라이트와 다크]",
-      "md5": "80269b3797497450d46a4369add4b248"
+      "md5": "bb8a299e9cda86f89eed5955c6fd9a3c"
     },
     {
       "_id": 6,
@@ -71,7 +72,7 @@
       "size": 76099,
       "name": "แป้นพิมพ์มายากีคีย์บอร์ด",
       "des": "แป้นพิมพ์มายากีภาษาไทย [แสงและมืด]",
-      "md5": "a83f87e073f87dc48b49c068e6c239af"
+      "md5": "e62d176b7e5e2d363a87fffcd916dba2"
     },
     {
       "_id": 7,
@@ -83,7 +84,7 @@
       "size": 75781,
       "name": "Магическая клавиатура",
       "des": "Магическая клавиатура на русском языке [светлая и темная]",
-      "md5": "ac5082d0e57e1dec6d478080fbd50ca8"
+      "md5": "00e45fd92d17a9c3b56abd771b3cc051"
     }
   ]
 }

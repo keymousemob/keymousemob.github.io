@@ -1,6 +1,5 @@
 {
-  "next": "list2.json",
-  "next": "/short/list2.json",
+  "next": "/action/list2.json",
   "list": [
     {
       "name": "Default",
