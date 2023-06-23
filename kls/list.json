@@ -20,10 +20,10 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/JP.jpg",
       "kls": "/kls/JP.kls",
-      "size": 76063,
+      "size": 76062,
       "name": "マジックキーボード",
       "des": "日本語マジックキーボード [ライトとダーク]",
-      "md5": "36849e037e70d116f187edc527a2182b"
+      "md5": "ff1d6446536963976c004bb863c92cd2"
     },
     {
       "_id": 3,
@@ -45,10 +45,10 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/DE.jpg",
       "kls": "/kls/DE.kls",
-      "size": 75586,
+      "size": 75584,
       "name": "Magische Tastatur",
       "des": "Deutsche Magische Tastatur [hell und dunkel]",
-      "md5": "ddc936d07d7e2b1dc795e41268eb5069"
+      "md5": "2ece04b0e29a3c2f0744a005875329a4"
     },
     {
       "_id": 5,
@@ -57,10 +57,10 @@
       "avatar": "/short/apps/app.png",
       "preview": "/kls/KR.jpg",
       "kls": "/kls/KR.kls",
-      "size": 75755,
+      "size": 75753,
       "name": "매직 키보드",
       "des": "한국어 매직 키보드 [라이트와 다크]",
-      "md5": "bb8a299e9cda86f89eed5955c6fd9a3c"
+      "md5": "a6fd8d4b50074d82dd4a90a2b9f902b2"
     },
     {
       "_id": 6,
