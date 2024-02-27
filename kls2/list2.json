@@ -1,0 +1,97 @@
+{
+  "next": "/kls2/list3.json",
+  "list": [
+    {
+      "_id": 8,
+      "type": "EN",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls2/fire/EN.jpg",
+      "kls": "/kls2/fire/EN.kls",
+      "size": 75134,
+      "name": "Magic Keyboard",
+      "des": "English Magic Keyboard [light and dark]",
+      "md5": "f4136b86c2a3779045bdca91d46b1ce7"
+    },
+    {
+      "_id": 9,
+      "type": "JP",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls2/fire/JP.jpg",
+      "kls": "/kls2/fire/JP.kls",
+      "size": 75909,
+      "name": "マジックキーボード",
+      "des": "日本語マジックキーボード [ライトとダーク]",
+      "md5": "a63b232aa35347e1cf5438a360a13692"
+    },
+    {
+      "_id": 10,
+      "type": "FR",
+      "author": "002",
+      "count": 11,
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls2/fire/FR.jpg",
+      "kls": "/kls2/fire/FR.kls",
+      "size": 75406,
+      "name": "Clavier Magique",
+      "des": "Clavier Magique en français [clair et sombre]",
+      "md5": "7bebf13e98beb76bcb57d5ac59f51364"
+    },
+    {
+      "_id": 11,
+      "type": "DE",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls2/fire/DE.jpg",
+      "kls": "/kls2/fire/DE.kls",
+      "size": 75296,
+      "name": "Magische Tastatur",
+      "des": "Deutsche Magische Tastatur [hell und dunkel]",
+      "md5": "78c0f1b219c00e3f5dfcf43f3ae57658"
+    },
+    {
+      "_id": 12,
+      "type": "KR",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls2/fire/KR.jpg",
+      "kls": "/kls2/fire/KR.kls",
+      "size": 75554,
+      "name": "매직 키보드",
+      "des": "한국어 매직 키보드 [라이트와 다크]",
+      "md5": "587907a189be50281b5801a610507b7e"
+    },
+    {
+      "_id": 13,
+      "type": "TH",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls2/fire/TH.jpg",
+      "kls": "/kls2/fire/TH.kls",
+      "size": 75954,
+      "name": "แป้นพิมพ์มายากีคีย์บอร์ด",
+      "des": "แป้นพิมพ์มายากีภาษาไทย [แสงและมืด]",
+      "md5": "c38ae6019c499e666c3f68a64d4d4a4e"
+    },
+    {
+      "_id": 14,
+      "type": "RU",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls2/fire/RU.jpg",
+      "kls": "/kls2/fire/RU.kls",
+      "size": 75573,
+      "name": "Магическая клавиатура",
+      "des": "Магическая клавиатура на русском языке [светлая и темная]",
+      "md5": "eff9a09b64abd859a212f54fb4fcd2fd"
+    }
+  ]
+}
