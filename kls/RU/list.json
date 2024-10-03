@@ -39,6 +39,19 @@
       "name": "Клавиатура Bubbles",
       "des": "Клавиатура Bubbles на русском языке",
       "md5": "cde30897f62ac46cef051704f256b35d"
+    },
+    {
+      "_id": 73,
+      "type": "RU",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls/RU/water.jpg",
+      "kls": "/kls/RU/water.kls",
+      "size": 130385,
+      "name":"Водная клавиатура",
+      "des":"Русская водная клавиатура",
+      "md5": "a23c444bd070686604a4b98b314c9f6e"
     }
   ]
 }
