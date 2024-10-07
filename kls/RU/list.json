@@ -5,14 +5,14 @@
       "_id": 70,
       "type": "RU",
       "author": "001",
-      "base" : true,
-      "avatar": "/short/apps/app.png",
+      "base": true,
+      "avatar": "/avatar/app.png",
       "preview": "/kls/RU/base.jpg",
       "kls": "/kls/RU/base.kls",
-      "size": 75741,
-      "name": "Магическая клавиатура",
-      "des": "Магическая клавиатура на русском языке [светлая и темная]",
-      "md5": "24be7428ac488df5fa27cdd30fc8634c"
+      "size": 75671,
+      "name": "Волшебная клавиатура",
+      "des": "Русская раскладка клавиатуры",
+      "md5": "a7e00115f15b444493566ca3b5e0a1a4"
     },
     {
       "_id": 71,
@@ -20,12 +20,12 @@
       "author": "002",
       "avatar": "/avatar/sens.jpeg",
       "vip": true,
-      "preview": "/kls/RU/fire.jpg",
-      "kls": "/kls/RU/fire.kls",
-      "size": 75573,
-      "name": "Магическая клавиатура",
-      "des": "Магическая клавиатура на русском языке [светлая и темная]",
-      "md5": "eff9a09b64abd859a212f54fb4fcd2fd"
+      "preview": "/kls/RU/gemstone.jpg",
+      "kls": "/kls/RU/gemstone.kls",
+      "size": 75395,
+      "name": "Клавиатура с драгоценными камнями",
+      "des": "Русская клавиатура из драгоценных камней",
+      "md5": "709c47d703646b0be76f550f20db7d2f"
     },
     {
       "_id": 72,
@@ -33,12 +33,12 @@
       "author": "002",
       "avatar": "/avatar/sens.jpeg",
       "vip": true,
-      "preview": "/kls/RU/bubbles.jpg",
-      "kls": "/kls/RU/bubbles.kls",
-      "size": 223539,
-      "name": "Клавиатура Bubbles",
-      "des": "Клавиатура Bubbles на русском языке",
-      "md5": "cde30897f62ac46cef051704f256b35d"
+      "preview": "/kls/RU/jade.jpg",
+      "kls": "/kls/RU/jade.kls",
+      "size": 75356,
+      "name": "Нефритовая клавиатура",
+      "des": "Русская нефритовая клавиатура",
+      "md5": "572da840af808701db3f0e41a30281ae"
     },
     {
       "_id": 73,
@@ -46,12 +46,64 @@
       "author": "002",
       "avatar": "/avatar/sens.jpeg",
       "vip": true,
+      "preview": "/kls/RU/grass.jpg",
+      "kls": "/kls/RU/grass.kls",
+      "size": 75352,
+      "name": "Травяная клавиатура",
+      "des": "Русская травяная клавиатура",
+      "md5": "39086b3de9d0ea21918dbbc97dd8aee0"
+    },
+    {
+      "_id": 74,
+      "type": "RU",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls/RU/fire.jpg",
+      "kls": "/kls/RU/fire.kls",
+      "size": 75527,
+      "name": "Огненная клавиатура",
+      "des": "Русская огненная клавиатура",
+      "md5": "b9ccb001629c33c12a75268125f1d596"
+    },
+    {
+      "_id": 75,
+      "type": "RU",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
       "preview": "/kls/RU/water.jpg",
       "kls": "/kls/RU/water.kls",
-      "size": 130385,
-      "name":"Водная клавиатура",
-      "des":"Русская водная клавиатура",
-      "md5": "a23c444bd070686604a4b98b314c9f6e"
+      "size": 130258,
+      "name": "Водная клавиатура",
+      "des": "Русская водная клавиатура",
+      "md5": "d0b2f9fcaf5f1b4b89fbe4cb3a369043"
+    },
+    {
+      "_id": 76,
+      "type": "RU",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls/RU/bubbles.jpg",
+      "kls": "/kls/RU/bubbles.kls",
+      "size": 223490,
+      "name": "Клавиатура Bubbles",
+      "des": "Клавиатура Bubbles на русском языке",
+      "md5": "806727760d3ac7ee52e3b8d09acade82"
+    },
+    {
+      "_id": 77,
+      "type": "RU",
+      "author": "002",
+      "avatar": "/avatar/sens.jpeg",
+      "vip": true,
+      "preview": "/kls/RU/mechanical.jpg",
+      "kls": "/kls/RU/mechanical.kls",
+      "size": 218414,
+      "name": "Механическая клавиатура",
+      "des": "Русская механическая клавиатура",
+      "md5": "f90db18406c9ee32ed86bba8ead05218"
     }
   ]
 }
