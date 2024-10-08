@@ -2,12 +2,12 @@
   "list": [
     {
       "name": "Ps",
-      "icon": "/short/apps/Ps.png",
+      "icon": "/action/apps/Ps.png",
       "list": [
         [
           {
             "name": "Move Tool",
-            "icon": "/short/icons/ps/A.png",
+            "icon": "/action/icons/ps/A.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -22,7 +22,7 @@
         [
           {
             "name": "Marquee Tool",
-            "icon": "/short/icons/ps/M.png",
+            "icon": "/action/icons/ps/M.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -37,7 +37,7 @@
         [
           {
             "name": "Lasso Tool",
-            "icon": "/short/icons/ps/L.png",
+            "icon": "/action/icons/ps/L.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -52,7 +52,7 @@
         [
           {
             "name": "Magic Wand Tool",
-            "icon": "/short/icons/ps/W.png",
+            "icon": "/action/icons/ps/W.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -67,7 +67,7 @@
         [
           {
             "name": "Crop Tool",
-            "icon": "/short/icons/ps/C.png",
+            "icon": "/action/icons/ps/C.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -82,7 +82,7 @@
         [
           {
             "name": "Frame Tool",
-            "icon": "/short/icons/ps/K.png",
+            "icon": "/action/icons/ps/K.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -97,7 +97,7 @@
         [
           {
             "name": "Eyedropper Tool",
-            "icon": "/short/icons/ps/I.png",
+            "icon": "/action/icons/ps/I.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -112,7 +112,7 @@
         [
           {
             "name": "Spot Healing Brush Tool",
-            "icon": "/short/icons/ps/J.png",
+            "icon": "/action/icons/ps/J.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -127,7 +127,7 @@
         [
           {
             "name": "Brush Tool",
-            "icon": "/short/icons/ps/B.png",
+            "icon": "/action/icons/ps/B.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -142,7 +142,7 @@
         [
           {
             "name": "Clone Stamp Tool",
-            "icon": "/short/icons/ps/S.png",
+            "icon": "/action/icons/ps/S.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -157,7 +157,7 @@
         [
           {
             "name": "History Brush Tool",
-            "icon": "/short/icons/ps/Y.png",
+            "icon": "/action/icons/ps/Y.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -172,7 +172,7 @@
         [
           {
             "name": "Eraser Tool",
-            "icon": "/short/icons/ps/E.png",
+            "icon": "/action/icons/ps/E.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -187,7 +187,7 @@
         [
           {
             "name": "Gradient Tool",
-            "icon": "/short/icons/ps/G.png",
+            "icon": "/action/icons/ps/G.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -202,7 +202,7 @@
         [
           {
             "name": "Dodge Tool",
-            "icon": "/short/icons/ps/O.png",
+            "icon": "/action/icons/ps/O.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -217,7 +217,7 @@
         [
           {
             "name": "Pen Tool",
-            "icon": "/short/icons/ps/P.png",
+            "icon": "/action/icons/ps/P.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -232,7 +232,7 @@
         [
           {
             "name": "Type Tool",
-            "icon": "/short/icons/ps/T.png",
+            "icon": "/action/icons/ps/T.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -247,7 +247,7 @@
         [
           {
             "name": "Path Selection Tool",
-            "icon": "/short/icons/ps/A.png",
+            "icon": "/action/icons/ps/A.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -262,7 +262,7 @@
         [
           {
             "name": "Rectangle Tool",
-            "icon": "/short/icons/ps/U.png",
+            "icon": "/action/icons/ps/U.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -277,7 +277,7 @@
         [
           {
             "name": "Hand Tool",
-            "icon": "/short/icons/ps/H.png",
+            "icon": "/action/icons/ps/H.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -292,7 +292,7 @@
         [
           {
             "name": "Zoom Tool",
-            "icon": "/short/icons/ps/Z.png",
+            "icon": "/action/icons/ps/Z.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -307,7 +307,7 @@
         [
           {
             "name": "Default Color",
-            "icon": "/short/icons/ps/D.png",
+            "icon": "/action/icons/ps/D.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -322,7 +322,7 @@
         [
           {
             "name": "Switch Color",
-            "icon": "/short/icons/ps/X.png",
+            "icon": "/action/icons/ps/X.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -337,7 +337,7 @@
         [
           {
             "name": "Edit in Standard Mode",
-            "icon": "/short/icons/ps/Q.png",
+            "icon": "/action/icons/ps/Q.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -352,7 +352,7 @@
         [
           {
             "name": "Standard Screen Mode",
-            "icon": "/short/icons/ps/F.png",
+            "icon": "/action/icons/ps/F.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -367,7 +367,7 @@
         [
           {
             "name": "Close Other",
-            "icon": "/short/icons/ps/close_other.png",
+            "icon": "/action/icons/ps/close_other.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -382,7 +382,7 @@
         [
           {
             "name": "Transform",
-            "icon": "/short/icons/ps/transform.png",
+            "icon": "/action/icons/ps/transform.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -397,7 +397,7 @@
         [
           {
             "name": "Decrease",
-            "icon": "/short/icons/ps/decrease.png",
+            "icon": "/action/icons/ps/decrease.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -410,7 +410,7 @@
           },
           {
             "name": "Increase",
-            "icon": "/short/icons/ps/increase.png",
+            "icon": "/action/icons/ps/increase.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -423,7 +423,7 @@
           },
           {
             "name": "Decrease Hardness",
-            "icon": "/short/icons/ps/decrease_hardness.png",
+            "icon": "/action/icons/ps/decrease_hardness.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -436,7 +436,7 @@
           },
           {
             "name": "Increase Hardness",
-            "icon": "/short/icons/ps/increase_hardness.png",
+            "icon": "/action/icons/ps/increase_hardness.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -451,7 +451,7 @@
         [
           {
             "name": "-1° Rotation",
-            "icon": "/short/icons/ps/rotation_counterclockwise_1.png",
+            "icon": "/action/icons/ps/rotation_counterclockwise_1.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -464,7 +464,7 @@
           },
           {
             "name": "1° Rotation",
-            "icon": "/short/icons/ps/rotation_clockwise_1.png",
+            "icon": "/action/icons/ps/rotation_clockwise_1.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -477,7 +477,7 @@
           },
           {
             "name": "-15° Rotation",
-            "icon": "/short/icons/ps/rotation_counterclockwise_15.png",
+            "icon": "/action/icons/ps/rotation_counterclockwise_15.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -490,7 +490,7 @@
           },
           {
             "name": "15° Rotation",
-            "icon": "/short/icons/ps/rotation_clockwise_15.png",
+            "icon": "/action/icons/ps/rotation_clockwise_15.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -505,7 +505,7 @@
         [
           {
             "name": "Copy New",
-            "icon": "/short/icons/ps/copy_new.png",
+            "icon": "/action/icons/ps/copy_new.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -518,7 +518,7 @@
           },
           {
             "name": "Cut New",
-            "icon": "/short/icons/ps/cut_new.png",
+            "icon": "/action/icons/ps/cut_new.png",
             "iconColor": "default",
             "bgColor": "#00C8FF",
             "action": [
@@ -534,12 +534,12 @@
     },
     {
       "name": "Ai",
-      "icon": "/short/apps/Ai.png",
+      "icon": "/action/apps/Ai.png",
       "list": [
         [
           {
             "name": "Color Setting",
-            "icon": "/short/icons/ai/color_setting.png",
+            "icon": "/action/icons/ai/color_setting.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -554,7 +554,7 @@
         [
           {
             "name": "Short Key",
-            "icon": "/short/icons/ai/short_key.png",
+            "icon": "/action/icons/ai/short_key.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -569,7 +569,7 @@
         [
           {
             "name": "Preferences",
-            "icon": "/short/icons/ai/preferences.png",
+            "icon": "/action/icons/ai/preferences.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -584,7 +584,7 @@
         [
           {
             "name": "Revoke",
-            "icon": "/short/icons/ai/revoke.png",
+            "icon": "/action/icons/ai/revoke.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -597,7 +597,7 @@
           },
           {
             "name": "Redo",
-            "icon": "/short/icons/ai/redo.png",
+            "icon": "/action/icons/ai/redo.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -612,7 +612,7 @@
         [
           {
             "name": "Copy",
-            "icon": "/short/icons/ai/copy.png",
+            "icon": "/action/icons/ai/copy.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -625,7 +625,7 @@
           },
           {
             "name": "Cut",
-            "icon": "/short/icons/ai/cut.png",
+            "icon": "/action/icons/ai/cut.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -638,7 +638,7 @@
           },
           {
             "name": "Paste",
-            "icon": "/short/icons/ai/paste.png",
+            "icon": "/action/icons/ai/paste.png",
             "iconColor": "#261300",
             "bgColor": "#FF7C00",
             "action": [
@@ -653,7 +653,7 @@
         [
           {
             "name": "Paste Front",
-            "icon": "/short/icons/ai/paste_front.png",
+            "icon": "/action/icons/ai/paste_front.png",
             "bgColor": "#FF7C00",
             "action": [
               {
@@ -665,7 +665,7 @@
           },
           {
             "name": "Paste Behind",
-            "icon": "/short/icons/ai/paste_behind.png",
+            "icon": "/action/icons/ai/paste_behind.png",
             "bgColor": "#FF7C00",
             "action": [
               {
@@ -677,7 +677,7 @@
           },
           {
             "name": "Paste Original",
-            "icon": "/short/icons/ai/paste_original.png",
+            "icon": "/action/icons/ai/paste_original.png",
             "bgColor": "#FF7C00",
             "action": [
               {
@@ -689,7 +689,7 @@
           },
           {
             "name": "Paste All",
-            "icon": "/short/icons/ai/paste_all.png",
+            "icon": "/action/icons/ai/paste_all.png",
             "bgColor": "#FF7C00",
             "action": [
               {
@@ -704,12 +704,12 @@
     },
     {
       "name": "Pr",
-      "icon": "/short/apps/Pr.png",
+      "icon": "/action/apps/Pr.png",
       "list": [
         [
           {
             "name": "Selection Tool",
-            "icon": "/short/icons/pr/V.png",
+            "icon": "/action/icons/pr/V.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -724,7 +724,7 @@
         [
           {
             "name": "Track Select Forward Tool",
-            "icon": "/short/icons/pr/A.png",
+            "icon": "/action/icons/pr/A.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -739,7 +739,7 @@
         [
           {
             "name": "Ripple Edit Tool",
-            "icon": "/short/icons/pr/B.png",
+            "icon": "/action/icons/pr/B.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -754,7 +754,7 @@
         [
           {
             "name": "Razor Tool",
-            "icon": "/short/icons/pr/C.png",
+            "icon": "/action/icons/pr/C.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -769,7 +769,7 @@
         [
           {
             "name": "Slip Tool",
-            "icon": "/short/icons/pr/Y.png",
+            "icon": "/action/icons/pr/Y.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -784,7 +784,7 @@
         [
           {
             "name": "Pen Tool",
-            "icon": "/short/icons/pr/P.png",
+            "icon": "/action/icons/pr/P.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -799,7 +799,7 @@
         [
           {
             "name": "Hand Tool",
-            "icon": "/short/icons/pr/H.png",
+            "icon": "/action/icons/pr/H.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -814,7 +814,7 @@
         [
           {
             "name": "Type Tool",
-            "icon": "/short/icons/pr/T.png",
+            "icon": "/action/icons/pr/T.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -829,7 +829,7 @@
         [
           {
             "name": "Add Marker",
-            "icon": "/short/icons/pr/M.png",
+            "icon": "/action/icons/pr/M.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -844,7 +844,7 @@
         [
           {
             "name": "Mark In",
-            "icon": "/short/icons/pr/I.png",
+            "icon": "/action/icons/pr/I.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -859,7 +859,7 @@
         [
           {
             "name": "Mark Out",
-            "icon": "/short/icons/pr/O.png",
+            "icon": "/action/icons/pr/O.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -874,7 +874,7 @@
         [
           {
             "name": "Go to In",
-            "icon": "/short/icons/pr/SI.png",
+            "icon": "/action/icons/pr/SI.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -889,7 +889,7 @@
         [
           {
             "name": "Step Back 1 Frame",
-            "icon": "/short/icons/pr/Left.png",
+            "icon": "/action/icons/pr/Left.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -904,7 +904,7 @@
         [
           {
             "name": "Play-Stop Toggle",
-            "icon": "/short/icons/pr/Space.png",
+            "icon": "/action/icons/pr/Space.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -919,7 +919,7 @@
         [
           {
             "name": "Step Forward 1 Frame",
-            "icon": "/short/icons/pr/Right.png",
+            "icon": "/action/icons/pr/Right.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -934,7 +934,7 @@
         [
           {
             "name": "Go to Out",
-            "icon": "/short/icons/pr/SO.png",
+            "icon": "/action/icons/pr/SO.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -949,7 +949,7 @@
         [
           {
             "name": "Lift",
-            "icon": "/short/icons/pr/Lift.png",
+            "icon": "/action/icons/pr/Lift.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -964,7 +964,7 @@
         [
           {
             "name": "Extract",
-            "icon": "/short/icons/pr/Extract.png",
+            "icon": "/action/icons/pr/Extract.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -979,7 +979,7 @@
         [
           {
             "name": "Export Frame",
-            "icon": "/short/icons/pr/SE.png",
+            "icon": "/action/icons/pr/SE.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -994,7 +994,7 @@
         [
           {
             "name": "Make Subclip",
-            "icon": "/short/icons/pr/make_subclip.png",
+            "icon": "/action/icons/pr/make_subclip.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -1009,7 +1009,7 @@
         [
           {
             "name": "Audio Gain",
-            "icon": "/short/icons/pr/audio_gain.png",
+            "icon": "/action/icons/pr/audio_gain.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -1024,7 +1024,7 @@
         [
           {
             "name": "Clip Speed/Duration",
-            "icon": "/short/icons/pr/clip_speed.png",
+            "icon": "/action/icons/pr/clip_speed.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -1039,7 +1039,7 @@
         [
           {
             "name": "Group",
-            "icon": "/short/icons/pr/group.png",
+            "icon": "/action/icons/pr/group.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -1052,7 +1052,7 @@
           },
           {
             "name": "Ungroup",
-            "icon": "/short/icons/pr/ungroup.png",
+            "icon": "/action/icons/pr/ungroup.png",
             "iconColor": "default",
             "bgColor": "#EA77FF",
             "action": [
@@ -1068,12 +1068,12 @@
     },
     {
       "name": "Ae",
-      "icon": "/short/apps/Ae.png",
+      "icon": "/action/apps/Ae.png",
       "list": [
         [
           {
             "name": "New Composition",
-            "icon": "/short/icons/ae/new_composition.png",
+            "icon": "/action/icons/ae/new_composition.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1088,7 +1088,7 @@
         [
           {
             "name": "Selection Tool",
-            "icon": "/short/icons/ae/V.png",
+            "icon": "/action/icons/ae/V.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1103,7 +1103,7 @@
         [
           {
             "name": "Hand Tool",
-            "icon": "/short/icons/ae/H.png",
+            "icon": "/action/icons/ae/H.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1118,7 +1118,7 @@
         [
           {
             "name": "Zoom Tool",
-            "icon": "/short/icons/ae/Z.png",
+            "icon": "/action/icons/ae/Z.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1133,7 +1133,7 @@
         [
           {
             "name": "Rotation Tool",
-            "icon": "/short/icons/ae/W.png",
+            "icon": "/action/icons/ae/W.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1148,7 +1148,7 @@
         [
           {
             "name": "Unified Camera Tool",
-            "icon": "/short/icons/ae/C.png",
+            "icon": "/action/icons/ae/C.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1163,7 +1163,7 @@
         [
           {
             "name": "Pan Behind (Anchor Point) Tool",
-            "icon": "/short/icons/ae/Y.png",
+            "icon": "/action/icons/ae/Y.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1178,7 +1178,7 @@
         [
           {
             "name": "Rectangle Tool",
-            "icon": "/short/icons/ae/Q.png",
+            "icon": "/action/icons/ae/Q.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1193,7 +1193,7 @@
         [
           {
             "name": "Pen Tool",
-            "icon": "/short/icons/ae/P.png",
+            "icon": "/action/icons/ae/P.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1208,7 +1208,7 @@
         [
           {
             "name": "Horizontal Type Tool",
-            "icon": "/short/icons/ae/T.png",
+            "icon": "/action/icons/ae/T.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1223,7 +1223,7 @@
         [
           {
             "name": "Brush Tool",
-            "icon": "/short/icons/ae/CB.png",
+            "icon": "/action/icons/ae/CB.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1238,7 +1238,7 @@
         [
           {
             "name": "Roto Brush Tool",
-            "icon": "/short/icons/ae/OW.png",
+            "icon": "/action/icons/ae/OW.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1253,7 +1253,7 @@
         [
           {
             "name": "Puppet Position Pin Tool",
-            "icon": "/short/icons/ae/CP.png",
+            "icon": "/action/icons/ae/CP.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1268,7 +1268,7 @@
         [
           {
             "name": "Fit to Comp",
-            "icon": "/short/icons/ae/fit_to_comp.png",
+            "icon": "/action/icons/ae/fit_to_comp.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1281,7 +1281,7 @@
           },
           {
             "name": "Fit to Comp Width",
-            "icon": "/short/icons/ae/fit_to_comp_width.png",
+            "icon": "/action/icons/ae/fit_to_comp_width.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1294,7 +1294,7 @@
           },
           {
             "name": "Fit to Comp Height",
-            "icon": "/short/icons/ae/fit_to_comp_height.png",
+            "icon": "/action/icons/ae/fit_to_comp_height.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1309,7 +1309,7 @@
         [
           {
             "name": "Group",
-            "icon": "/short/icons/ae/group.png",
+            "icon": "/action/icons/ae/group.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1322,7 +1322,7 @@
           },
           {
             "name": "Ungroup",
-            "icon": "/short/icons/ae/ungroup.png",
+            "icon": "/action/icons/ae/ungroup.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1337,7 +1337,7 @@
         [
           {
             "name": "Paste Layers at Current Time",
-            "icon": "/short/icons/ae/paste_layers_at_current_time.png",
+            "icon": "/action/icons/ae/paste_layers_at_current_time.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1352,7 +1352,7 @@
         [
           {
             "name": "Bring Layer Forward",
-            "icon": "/short/icons/ae/bring_layer_forward.png",
+            "icon": "/action/icons/ae/bring_layer_forward.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1365,7 +1365,7 @@
           },
           {
             "name": "Send Layer Backward",
-            "icon": "/short/icons/ae/send_layer_backward.png",
+            "icon": "/action/icons/ae/send_layer_backward.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1378,7 +1378,7 @@
           },
           {
             "name": "Select Previous Effect",
-            "icon": "/short/icons/ae/select_previous_effect.png",
+            "icon": "/action/icons/ae/select_previous_effect.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1391,7 +1391,7 @@
           },
           {
             "name": "Select Next Effect",
-            "icon": "/short/icons/ae/select_next_effect.png",
+            "icon": "/action/icons/ae/select_next_effect.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1406,7 +1406,7 @@
         [
           {
             "name": "Go Back 1 Frame",
-            "icon": "/short/icons/ae/go_back_1_frame.png",
+            "icon": "/action/icons/ae/go_back_1_frame.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1419,7 +1419,7 @@
           },
           {
             "name": "Go Forward 1 Frame",
-            "icon": "/short/icons/ae/go_forward_1_frame.png",
+            "icon": "/action/icons/ae/go_forward_1_frame.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1432,7 +1432,7 @@
           },
           {
             "name": "Go Back 10 Frame",
-            "icon": "/short/icons/ae/go_back_10_frame.png",
+            "icon": "/action/icons/ae/go_back_10_frame.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1445,7 +1445,7 @@
           },
           {
             "name": "Go Forward 10 Frame",
-            "icon": "/short/icons/ae/go_forward_10_frame.png",
+            "icon": "/action/icons/ae/go_forward_10_frame.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1460,7 +1460,7 @@
         [
           {
             "name": "Lock Layers",
-            "icon": "/short/icons/ae/lock_layers.png",
+            "icon": "/action/icons/ae/lock_layers.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1473,7 +1473,7 @@
           },
           {
             "name": "Unlock Layers",
-            "icon": "/short/icons/ae/unlock_layers.png",
+            "icon": "/action/icons/ae/unlock_layers.png",
             "iconColor": "default",
             "bgColor": "#D291FF",
             "action": [
@@ -1489,12 +1489,12 @@
     },
     {
       "name": "Au",
-      "icon": "/short/apps/Au.png",
+      "icon": "/action/apps/Au.png",
       "list": [
         [
           {
             "name": "Waveform",
-            "icon": "/short/icons/au/9.png",
+            "icon": "/action/icons/au/9.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1509,7 +1509,7 @@
         [
           {
             "name": "Multitrack",
-            "icon": "/short/icons/au/0.png",
+            "icon": "/action/icons/au/0.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1524,7 +1524,7 @@
         [
           {
             "name": "Show Spectral Frequency Display",
-            "icon": "/short/icons/au/SD.png",
+            "icon": "/action/icons/au/SD.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1539,7 +1539,7 @@
         [
           {
             "name": "Move Tool",
-            "icon": "/short/icons/au/V.png",
+            "icon": "/action/icons/au/V.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1554,7 +1554,7 @@
         [
           {
             "name": "Razor Selected Clips Tool",
-            "icon": "/short/icons/au/R.png",
+            "icon": "/action/icons/au/R.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1569,7 +1569,7 @@
         [
           {
             "name": "Slip Tool",
-            "icon": "/short/icons/au/Y.png",
+            "icon": "/action/icons/au/Y.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1584,7 +1584,7 @@
         [
           {
             "name": "Time Selection Tool",
-            "icon": "/short/icons/au/T.png",
+            "icon": "/action/icons/au/T.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1599,7 +1599,7 @@
         [
           {
             "name": "Marquee Selection Tool",
-            "icon": "/short/icons/au/E.png",
+            "icon": "/action/icons/au/E.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1614,7 +1614,7 @@
         [
           {
             "name": "Lasso Selection Tool",
-            "icon": "/short/icons/au/D.png",
+            "icon": "/action/icons/au/D.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1629,7 +1629,7 @@
         [
           {
             "name": "Paintbrush Selection Tool",
-            "icon": "/short/icons/au/P.png",
+            "icon": "/action/icons/au/P.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1644,7 +1644,7 @@
         [
           {
             "name": "Spot Healing Brush Tool",
-            "icon": "/short/icons/au/B.png",
+            "icon": "/action/icons/au/B.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1659,7 +1659,7 @@
         [
           {
             "name": "Nudge Down",
-            "icon": "/short/icons/au/nudge_down.png",
+            "icon": "/action/icons/au/nudge_down.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1672,7 +1672,7 @@
           },
           {
             "name": "Nudge Up",
-            "icon": "/short/icons/au/nudge_up.png",
+            "icon": "/action/icons/au/nudge_up.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1685,7 +1685,7 @@
           },
           {
             "name": "Nudge Left",
-            "icon": "/short/icons/au/nudge_left.png",
+            "icon": "/action/icons/au/nudge_left.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1698,7 +1698,7 @@
           },
           {
             "name": "Nudge Right",
-            "icon": "/short/icons/au/nudge_right.png",
+            "icon": "/action/icons/au/nudge_right.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1711,7 +1711,7 @@
           },
           {
             "name": "Nudge Left 5",
-            "icon": "/short/icons/au/nudge_left_5.png",
+            "icon": "/action/icons/au/nudge_left_5.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
@@ -1724,7 +1724,7 @@
           },
           {
             "name": "Nudge Right 5",
-            "icon": "/short/icons/au/nudge_right_5.png",
+            "icon": "/action/icons/au/nudge_right_5.png",
             "iconColor": "default",
             "bgColor": "#00E4BB",
             "action": [
