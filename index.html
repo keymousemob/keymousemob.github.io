@@ -3,12 +3,207 @@
 <head>
     <meta charset="UTF-8">
     <title>KeyMouse</title>
-
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="theme-color" content="#1A2A36">
+    <link rel="stylesheet" type="text/css" href="common/index.css">
+    <script src="common/js/jquery.min.js"></script>
+    <script src="common/js/main.js"></script>
+    <script src="common/js/translate.js"></script>
+    <script src="language/en.js"></script>
 </head>
-<body>
-<a href="https://play.google.com/store/apps/details?id=vip.keymouse">
-    <img src="./index.jpg">
-</a>
 
+<body>
+    <div id="top-container">
+        <h1 id="top-title">KeyMouse</h1>
+        <h3 id="top-hint">Bluetooth Keyboard & Mouse</h3>
+    </div>
+    <div class="grid">
+        <div id="title_app" class="title gap100 span_line">KeyMouse Android</div>
+
+        <div class="center gap40 span_line">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=vip.keymouse">
+                <img id="download_google" class="download shadow" src="common/images/download_google.svg">
+            </a>
+        </div>
+
+        <p id="subtitle" class="gap100 span_line"></p>
+
+        <div class="span2"></div>
+        <div class="item_method span2 shadow">
+            <img src="common/images/icon_mouse.svg" alt="item">
+            <p id="item_mouse_text"></p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="common/images/icon_keyboard.svg" alt="item">
+            <p id="item_keyboard_text"></p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="common/images/icon_shortcut.svg" alt="item">
+            <p id="item_shortcut_text"></p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="common/images/icon_launchpad.svg" alt="item">
+            <p id="item_launchpad_text"></p>
+        </div>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <img id="img_connect" class="span4 gap200 shadow" src="common/images/img_connect.png">
+        <p id="hint_connect" class="span4 gap200 hint"></p>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <p id="hint_keyboard" class="span4 gap260 hint"></p>
+        <div class="span6 gap260 img_stack">
+            <img id="keyboard_layer_1" class="shadow" src="common/images/img_page_keyboard.png">
+            <div id="keyboard_overlay_1" class="overlay"></div>
+            <img id="keyboard_layer_2" class="shadow" src="common/images/img_page_mouse_dialog.png">
+            <div id="keyboard_overlay_2" class="overlay"></div>
+            <img id="keyboard_layer_3" class="shadow" src="common/images/img_page_mouse.png">
+        </div>
+
+        <div class="span6 gap260 img_stack">
+            <img id="skin_layer_1" class="shadow" src="common/images/img_page_keyboard_list.png">
+            <div id="skin_overlay_1" class="overlay"></div>
+            <img id="skin_layer_2" class="shadow" src="common/images/img_keyboard_skin.png">
+        </div>
+        <p id="hint_skin" class="span4 gap260 hint"></p>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <p id="hint_shortcut" class="span4 gap260 hint"></p>
+        <div class="span6 gap260 img_stack">
+            <img id="shortcut_layer_1" class="shadow" src="common/images/img_page_keyboard.png">
+            <div id="shortcut_overlay_1" class="overlay"></div>
+            <img id="shortcut_layer_2" class="shadow" src="common/images/img_page_mouse_dialog.png">
+            <div id="shortcut_overlay_2" class="overlay"></div>
+            <img id="shortcut_layer_3" class="shadow" src="common/images/img_page_mouse.png">
+        </div>
+
+        <div class="span2"></div>
+        <img id="img_nfc" class="span4 gap260 shadow" src="common/images/img_page_nfc.png">
+        <p id="hint_nfc" class="span4 gap260 hint"></p>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <p id="hint_launchpad" class="span4 gap260 hint"></p>
+        <img id="img_launchpad" class="span6 gap260 shadow" src="common/images/img_page_launchpad.png">
+
+        <div class="span2"></div>
+        <img id="img_scan" class="span4 gap260 shadow" src="common/images/img_page_scan.png">
+        <p id="hint_scan" class="span4 gap260 hint"></p>
+        <div class="span2"></div>
+    </div>
+
+    <div class="grid desktop" style="display: none;">
+        <div id="title_desktop" class="white_title gap100 span_line"></div>
+
+        <div class="span2"></div>
+        <img id="img_splash" class="span4 gap100 shadow" src="common/images/img_pc_splash.png">
+        <div class="span1"></div>
+        <p id="hint_pc" class="span4 gap100 desktop_hint"></p>
+        <div class="span1"></div>
+
+        <img id="img_pc_normal" class="span4 gap10 shadow" src="common/images/img_pc_normal.png">
+        <img id="img_pc_min" class="span4 gap10 shadow" src="common/images/img_pc_min.png">
+        <div class="span4"></div>
+
+        <img class="img_pc_edit span_line gap260 shadow" src="common/images/img_pc_kls.png">
+
+        <div class="span2"></div>
+        <img class="img_pc_edit span6 gap-200 shadow" src="common/images/img_pc_ksc.png">
+        <div class="span1"></div>
+        <p id="hint_pc_edit" class="span3 gap-200 desktop_hint"></p>
+
+        <div class="span3"></div>
+
+        <div class="center span2 gap200">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=vip.keymouse">
+                <img class="download shadow" src="common/images/download_apple.svg">
+            </a>
+        </div>
+        <div class="span2"></div>
+        <div class="center span2 gap200">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=vip.keymouse">
+                <img class="download shadow" src="common/images/download_windows.svg">
+            </a>
+        </div>
+        <div class="span3"></div>
+    </div>
+
+    <div class="grid review">
+        <div id="title_review" class="white_title gap100 span_line"></div>
+
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>for mi tv stikck which does not have air mouse can use this app.. thank you..</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="common/images/avatar1.jpg">
+                <p class="name">nur haikal</p>
+            </div>
+        </div>
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>Huawei Media pad M5(Androidバージョン9)にて使用
+                    問題なく使用出来ましたが､Android12のスマホにはBluetooth接続すら出来ませんでした また、iPad Pro 11 ......</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="common/images/avatar2.png">
+                <p class="name">Horse Field</p>
+            </div>
+        </div>
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>Truly amazing app. It perfectly mimics the behaviour of a physical keyboards,
+                    allowing many layouts. It is the only app that does it and it does it greatly.</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="common/images/avatar3.png">
+                <p class="name">Valerio Montecchio</p>
+            </div>
+        </div>
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>笔记本触摸板坏了，拿来救急还是可以的</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="common/images/avatar4.png">
+                <p class="name">laha</p>
+            </div>
+        </div>
+    </div>
+    <div class="grid footer">
+        <div class="span2">
+            <a id="link_terms" target="_blank" href="https://keymousemob.github.io/page/Terms.html"></a>｜<a
+                id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html"></a>
+        </div>
+        <div class="span1"></div>
+        <div class="span4">
+            <span id="contact_email"></span><a id="link_terms"
+                href="mailto:KeyMouseMob@Gmail.com?subject=MFD&body=MFD">KeyMouseMob@Gmail.com</a>
+        </div>
+        <div class="span1"></div>
+        <div class="span4 right_text">
+            <span id="record_number"></span>豫ICP2024055958号
+        </div>
+    </div>
 </body>
+
 </html>
