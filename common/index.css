@@ -154,6 +154,7 @@ a {
 
 /********************* 个性属性 *********************/
 body {
+    width: 100vw;
     font-family: "HarmonyOS Sans";
     overflow-x: hidden;
     -ms-overflow-x: hidden;
