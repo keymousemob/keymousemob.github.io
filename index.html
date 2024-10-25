@@ -12,7 +12,7 @@
     <link rel="alternate" href="https://keymousemob.github.io/hk/" hreflang="zh-HK"/>
     <link rel="alternate" href="https://keymousemob.github.io/it/" hreflang="it-IT"/>
     <link rel="alternate" href="https://keymousemob.github.io/jp/" hreflang="ja-JP"/>
-    <link rel="alternate" href="https://keymousemob.github.io/kr/" hreflang="jo-KR"/>
+    <link rel="alternate" href="https://keymousemob.github.io/kr/" hreflang="ko-KR"/>
     <link rel="alternate" href="https://keymousemob.github.io/ru/" hreflang="ru-RU"/>
     <link rel="alternate" href="https://keymousemob.github.io/tw/" hreflang="zh-TW"/>
     <title>KeyMouse</title>
@@ -39,6 +39,48 @@
     <link rel="stylesheet" type="text/css" href="common/index.css">
     <script src="common/js/jquery.min.js"></script>
     <script src="common/js/main.js"></script>
+    <script>  
+        if (!!navigator.language) {  
+            switch (navigator.language) {  
+                case "zh-CN":  
+                    location.href = "/cn/";  
+                    break;  
+                case "de-DE":  
+                    location.href = "/de/";  
+                    break;  
+                case "en-US":  
+                    location.href = "/en/";  
+                    break;  
+                case "es-ES":  
+                    location.href = "/es/";  
+                    break;  
+                case "fr-FR":  
+                    location.href = "/fr/";  
+                    break;  
+                case "zh-HK":  
+                    location.href = "/hk/";  
+                    break;  
+                case "it-IT":  
+                    location.href = "/it/";  
+                    break;  
+                case "ja-JP":  
+                    location.href = "/jp/";  
+                    break;  
+                case "ko-KR":
+                    location.href = "/kr/";  
+                    break;  
+                case "ru-RU":  
+                    location.href = "/ru/";  
+                    break;  
+                case "zh-TW":  
+                    location.href = "/tw/";  
+                    break;  
+                default:  
+                    location.href = "/en/";  
+                    break;  
+            }  
+        }  
+    </script>
 </head>
 
 <body>
