@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html xml:lang="ja-JP" lang="ja-JP">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="canonical" href="https://keymousemob.github.io/jp/"/>
+    <link rel="alternate" href="https://keymousemob.github.io/cn/" hreflang="zh-CN"/>
+    <link rel="alternate" href="https://keymousemob.github.io/de/" hreflang="de-DE"/>
+    <link rel="alternate" href="https://keymousemob.github.io/en/" hreflang="en-US"/>
+    <link rel="alternate" href="https://keymousemob.github.io/es/" hreflang="es-ES"/>
+    <link rel="alternate" href="https://keymousemob.github.io/fr/" hreflang="fr-FR"/>
+    <link rel="alternate" href="https://keymousemob.github.io/hk/" hreflang="zh-HK"/>
+    <link rel="alternate" href="https://keymousemob.github.io/it/" hreflang="it-IT"/>
+    <link rel="alternate" href="https://keymousemob.github.io/jp/" hreflang="ja-JP"/>
+    <link rel="alternate" href="https://keymousemob.github.io/kr/" hreflang="jo-KR"/>
+    <link rel="alternate" href="https://keymousemob.github.io/ru/" hreflang="ru-RU"/>
+    <link rel="alternate" href="https://keymousemob.github.io/tw/" hreflang="zh-TW"/>
+    <title>KeyMouse（日本）</title>
+    <meta name="description"
+        content="このアプリは、Bluetooth 経由でキーボード、マウス、ショートカット キーを作成します。このアプリを使用して、Mac、iPad、Windows、およびBluetoothキーボードをサポートするその他のデバイスを制御できます。いつでも携帯電話を取り出して、いつでも使用でき、便利で速いです。" />
+    <meta name="keywords"
+        content="KeyMouse,Bluetooth,キーボード,マウス,KeyMouse アプリ,Bluetooth 接続,ワイヤレス キーボード,モバイル マウス,クロスプラットフォーム コントロール,Mac 互換性,iPad サポート,Windows 互換性,リモート コントロール,生産性ツール,モバイル デバイス アクセサリ,外出先での利便性" />
+    <meta property="og:title" content="KeyMouse（日本）" />
+    <meta property="og:description"
+        content="このアプリは、Bluetooth 経由でキーボード、マウス、ショートカット キーを作成します。このアプリを使用して、Mac、iPad、Windows、およびBluetoothキーボードをサポートするその他のデバイスを制御できます。いつでも携帯電話を取り出して、いつでも使用でき、便利で速いです。" />
+    <meta property="og:url" content="https://keymousemob.github.io/jp/" />
+    <meta property="og:image" content="https://keymousemob.github.io/jp/preview.png" />
+    <meta property="og:locale" content="ja_jp" />
+    <meta property="og:site_name" content="KeyMouse（日本）" />
+
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#1A2A36">
+    <meta name="screen-orientation" content="portrait" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport"
+        content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no,viewport-fit=cover" />
+    <link rel="shortcut icon" href="../common/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" sizes="any" mask="" href="../common/images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="../common/index.css">
+    <link rel="stylesheet" type="text/css" href="../common/smaller.css">
+    <script src="../common/js/jquery.min.js"></script>
+    <script src="../common/js/main.js"></script>
+</head>
+
+<body>
+    <div id="top-container">
+        <h1 id="top-title">KeyMouse</h1>
+        <h3 id="top-hint">Bluetoothキーボード・マウス</h3>
+    </div>
+    <div class="grid">
+        <div id="title_app" class="title gap100 span_line">KeyMouse Android</div>
+
+        <div class="center gap40 span_line">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=vip.keymouse">
+                <img id="download_google" class="download shadow" src="../common/images/download_google.svg"
+                    alt="GooglePlay で KeyMouse をダウンロード">
+            </a>
+        </div>
+
+        <p id="subtitle" class="gap100 span_line">複数の機能をサポート</p>
+
+        <div class="span2"></div>
+        <div class="item_method span2 shadow">
+            <img src="../common/images/icon_mouse.svg" alt="マウス">
+            <p id="item_mouse_text">マウス</p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="../common/images/icon_keyboard.svg" alt="キーボード">
+            <p id="item_keyboard_text">キーボード</p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="../common/images/icon_shortcut.svg" alt="ショートカット">
+            <p id="item_shortcut_text">ショートカット</p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="../common/images/icon_launchpad.svg" alt="Launchpad">
+            <p id="item_launchpad_text">Launchpad</p>
+        </div>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <img id="img_connect" class="span4 gap200 shadow" src="../common/images/img_connect.png" alt="複数のコンピュータを接続する">
+        <p id="hint_connect" class="span4 gap200 hint">複数のコンピュータを接続する
+            <br>
+            Bluetooth接続のみが必要です
+        </p>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <p id="hint_keyboard" class="span4 gap260 hint">超応答性の高いキーボード<br>
+            超柔軟なトラックパッド<br>
+            無制限のショートカット キー</p>
+        <div class="span6 gap260 img_stack">
+            <img id="keyboard_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="キーボード">
+            <div id="keyboard_overlay_1" class="overlay"></div>
+            <img id="keyboard_layer_2" class="shadow" src="../common/images/img_page_mouse_dialog.png" alt="マウス">
+            <div id="keyboard_overlay_2" class="overlay"></div>
+            <img id="keyboard_layer_3" class="shadow" src="../common/images/img_page_mouse.png" alt="マウス">
+        </div>
+
+        <div class="span6 gap260 img_stack">
+            <img id="skin_layer_1" class="shadow" src="../common/images/img_page_keyboard_list.png" alt="キーボード リスト">
+            <div id="skin_overlay_1" class="overlay"></div>
+            <img id="skin_layer_2" class="shadow" src="../common/images/img_keyboard_skin.png" alt="キーボード スキン">
+        </div>
+        <p id="hint_skin" class="span4 gap260 hint">多言語キーボード<br>
+            キーボードの種類は無制限<br>
+            絶妙なキーボードスキン</p>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <p id="hint_shortcut" class="span4 gap260 hint">いつでもショートカット キーを調整できます<br>
+            いつでもショートカット キーを作成できます<br>
+            無制限のアクションリスト</p>
+        <div class="span6 gap260 img_stack">
+            <img id="shortcut_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="キーボード">
+            <div id="shortcut_overlay_1" class="overlay"></div>
+            <img id="shortcut_layer_2" class="shadow" src="../common/images/img_page_short_list.png" alt="ショートカット リスト">
+            <div id="shortcut_overlay_2" class="overlay"></div>
+            <img id="shortcut_layer_3" class="shadow" src="../common/images/img_page_short_edit.png" alt="ショートカット編集">
+        </div>
+
+        <div class="span2"></div>
+        <img id="img_nfc" class="span4 gap260 shadow" src="../common/images/img_page_nfc.png" alt="nfc">
+        <p id="hint_nfc" class="span4 gap260 hint">PC向けにNFCを拡張する<br>
+            ICカードの素早い識別<br>
+            PCへのクイック転送</p>
+        <div class="span2"></div>
+
+        <div class="span2"></div>
+        <p id="hint_launchpad" class="span4 gap260 hint">美しい発射台<br>
+            無限の可能性<br>
+            生産性の向上</p>
+        <img id="img_launchpad" class="span6 gap260 shadow" src="../common/images/img_page_launchpad.png"
+            alt="launchpad">
+
+        <div class="span2"></div>
+        <img id="img_scan" class="span4 gap260 shadow" src="../common/images/img_page_scan.png" alt="スキャナー">
+        <p id="hint_scan" class="span4 gap260 hint">PC用拡張スキャナー<br>
+            QRコードを素早く識別<br>
+            バーコードを素早く識別する</p>
+        <div class="span2"></div>
+    </div>
+
+    <div class="grid desktop" style="display: none;">
+        <div id="title_desktop" class="white_title gap100 span_line">KeyMouse PC Tools</div>
+
+        <div class="span2"></div>
+        <img id="img_splash" class="span4 gap100 shadow" src="../common/images/img_pc_splash.png" alt="pc splash">
+        <div class="span1"></div>
+        <p id="hint_pc" class="span4 gap100 desktop_hint">キーボードの作成<br>ショートカットの作成<br>アプリをタッチ バーにリンク</p>
+        <div class="span1"></div>
+
+        <img id="img_pc_normal" class="span4 gap10 shadow" src="../common/images/img_pc_normal.png" alt="pc normal">
+        <img id="img_pc_min" class="span4 gap10 shadow" src="../common/images/img_pc_min.png" alt="pc min">
+        <div class="span4"></div>
+
+        <img class="img_pc_edit span_line gap260 shadow" src="../common/images/img_pc_kls.png" alt="pc kls">
+
+        <div class="span2"></div>
+        <img class="img_pc_edit span6 gap-200 shadow" src="../common/images/img_pc_ksc.png" alt="pc ksc">
+        <div class="span1"></div>
+        <p id="hint_pc_edit" class="span3 gap-200 desktop_hint">使いやすい</p>
+
+        <div class="span3"></div>
+
+        <div class="center span2 gap200">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=vip.keymouse">
+                <img class="download shadow" src="../common/images/download_apple.svg" alt="download apple">
+            </a>
+        </div>
+        <div class="span2"></div>
+        <div class="center span2 gap200">
+            <a target="_blank" href="https://play.google.com/store/apps/details?id=vip.keymouse">
+                <img class="download shadow" src="../common/images/download_windows.svg" alt="download windows">
+            </a>
+        </div>
+        <div class="span3"></div>
+    </div>
+
+    <div class="grid review">
+        <div id="title_review" class="white_title gap100 span_line">レビュー</div>
+
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>for mi tv stikck which does not have air mouse can use this app.. thank you..</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="../common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="../common/images/avatar1.jpg">
+                <p class="name">nur haikal</p>
+            </div>
+        </div>
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>Huawei Media pad M5(Androidバージョン9)にて使用
+                    問題なく使用出来ましたが､Android12のスマホにはBluetooth接続すら出来ませんでした また、iPad Pro 11 ......</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="../common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="../common/images/avatar2.png">
+                <p class="name">Horse Field</p>
+            </div>
+        </div>
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>Truly amazing app. It perfectly mimics the behaviour of a physical keyboards,
+                    allowing many layouts. It is the only app that does it and it does it greatly.</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="../common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="../common/images/avatar3.png">
+                <p class="name">Valerio Montecchio</p>
+            </div>
+        </div>
+        <div class="review_box span3 gap50 shadow">
+            <div class="comment">
+                <p><strong>“</strong>笔记本触摸板坏了，拿来救急还是可以的</p>
+            </div>
+            <div class="line"></div>
+            <div>
+                <img class="star" src="../common/images/review_star.svg">
+            </div>
+            <div class="user_box">
+                <img class="avatar" src="../common/images/avatar4.png">
+                <p class="name">laha</p>
+            </div>
+        </div>
+    </div>
+    <div class="grid footer">
+        <div class="span2">
+            <a id="link_terms" target="_blank" href="https://keymousemob.github.io/page/Terms.html">利用規約</a>｜<a
+                id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html">プライバシー</a>
+        </div>
+        <div class="span1"></div>
+        <div class="span4">
+            <span id="contact_email">連絡先メール : </span><a id="link_terms"
+                href="mailto:KeyMouseMob@Gmail.com?subject=MFD&body=MFD">KeyMouseMob@Gmail.com</a>
+        </div>
+    </div>
+</body>
+
+</html>

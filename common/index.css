@@ -68,6 +68,10 @@ a {
 #img_nfc:hover,
 #img_launchpad:hover,
 #img_scan:hover,
+#img_splash:hover,
+#img_pc_normal:hover,
+#img_pc_min:hover,
+.img_pc_edit:hover,
 .img_stack:hover,
 .review_box .avatar:hover,
 .download:hover {
@@ -154,7 +158,6 @@ a {
 
 /********************* 个性属性 *********************/
 body {
-    width: 100vw;
     font-family: "HarmonyOS Sans";
     overflow-x: hidden;
     -ms-overflow-x: hidden;
@@ -162,9 +165,9 @@ body {
     overscroll-behavior: none;
 }
 
-p {
+/* p {
     white-space: pre;
-}
+} */
 
 #top-container {
     /* 确保子元素可以相对于此元素定位，虽然在这个例子中可能不是必需的 */
