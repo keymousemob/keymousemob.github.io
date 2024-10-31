@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.keymousemob.blue",
+      "sha256_cert_fingerprints": [
+        "DD:BE:32:8E:44:BF:5C:F1:82:06:C1:6E:3E:00:AE:7C:05:F5:11:0A:83:FA:B7:B2:31:F1:1A:18:BB:E3:0C:19"
+      ]
+    }
+  }
+]
