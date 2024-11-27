@@ -114,6 +114,222 @@
       ]
     },
     {
+      "name": "TV",
+      "icon": "/action/apps/tv.png",
+      "list": [
+        [{
+            "name": "power",
+            "icon": "/action/icons/tv/power.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#D82121",
+            "action": [
+              {
+                "type": "control",
+                "default": "0,1"
+              }
+            ]
+        }],
+        [{
+            "name": "OK",
+            "icon": "/action/icons/tv/ok.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,28"
+              }
+            ]
+        }],
+        [{
+            "name": "UP",
+            "icon": "/action/icons/tv/up.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,52"
+              }
+            ]
+        }],
+        [{
+            "name": "Down",
+            "icon": "/action/icons/tv/down.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,51"
+              }
+            ]
+        }],
+        [{
+            "name": "Left",
+            "icon": "/action/icons/tv/left.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,50"
+              }
+            ]
+        }],
+        [{
+            "name": "Right",
+            "icon": "/action/icons/tv/right.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,4F"
+              }
+            ]
+        }],
+        [{
+            "name": "Back",
+            "icon": "/action/icons/tv/back.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,F1"
+              }
+            ]
+        }],
+        [{
+            "name": "Home",
+            "icon": "/action/icons/tv/home.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "0,4"
+              }
+            ]
+        }],
+        [{
+            "name": "Menu",
+            "icon": "/action/icons/tv/menu.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "0,2"
+              }
+            ]
+        }],
+        [
+          {
+            "name": "Vol Down",
+            "icon": "/action/icons/tv/vol_sub.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "2"
+              }
+            ]
+          },
+          {
+            "name": "Vol Up",
+            "icon": "/action/icons/tv/vol_add.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "1"
+              }
+            ]
+          },
+          {
+            "name": "Vol Mute",
+            "icon": "/action/icons/tv/vol_mute.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "4"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Previous",
+            "icon": "/action/icons/tv/media_previous.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "20"
+              }
+            ]
+          },
+          {
+            "name": "Play/Pause",
+            "icon": "/action/icons/tv/media_play.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "8"
+              }
+            ]
+          },
+          {
+            "name": "Next",
+            "icon": "/action/icons/tv/media_next.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "10"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Rewind",
+            "icon": "/action/icons/tv/rewind.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "80"
+              }
+            ]
+          },
+          {
+            "name": "Forward",
+            "icon": "/action/icons/tv/forward.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "40"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
       "name": "ppt",
       "icon": "/action/apps/ppt.png",
       "list": [
