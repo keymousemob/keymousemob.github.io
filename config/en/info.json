@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":1,
+        "_id":2,
         "title": "Notification",
-        "content": "        Based on feedback from many pro members, more member features will be available in future versions, and the free rights of guests will be gradually phased out. The rights and interests of members will not be affected in any way.\n        To assist guests in smoothly becoming pro members, the subscription trial period will be extended from 3 days to 7 days."
+        "content": "        Based on feedback from many pro members, more member features will be available in future versions, and the free rights of guests will be gradually phased out. The rights and interests of members will not be affected in any way.\n        To assist guests in smoothly becoming pro members, the subscription trial period will be extended from 3 days to 6 days."
     }
 }

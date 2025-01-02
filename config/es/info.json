@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":1,
+        "_id":2,
         "title": "Notificación",
-        "content": "        Basado en las opiniones de muchos miembros Pro, en futuras versiones se abrirán más funciones para miembros y se irán recibiendo gradualmente los derechos gratuitos de los visitantes. Los derechos y beneficios de los miembros no se verán afectados de ninguna manera.\n        Para ayudar mejor a los visitantes a convertirse en miembros Pro sin problemas, se ampliará el período de prueba de suscripción de 3 días a 7 días."
+        "content": "        Basado en las opiniones de muchos miembros Pro, en futuras versiones se abrirán más funciones para miembros y se irán recibiendo gradualmente los derechos gratuitos de los visitantes. Los derechos y beneficios de los miembros no se verán afectados de ninguna manera.\n        Para ayudar mejor a los visitantes a convertirse en miembros Pro sin problemas, se ampliará el período de prueba de suscripción de 3 días a 6 días."
     }
 }

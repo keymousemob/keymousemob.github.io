@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":1,
+        "_id":2,
         "title": "Notification",
-        "content": "        En raison des retours de nombreux membres pro, de nouvelles fonctionnalités pour les membres seront disponibles dans les futures versions, et les droits gratuits des visiteurs seront progressivement ramenés. Les droits et avantages des membres ne seront en aucun cas affectés.\n        Afin d'aider les visiteurs à devenir des membres pro sans encombre, la période d'essai d'abonnement sera prolongée de 3 jours à 7 jours."
+        "content": "        En raison des retours de nombreux membres pro, de nouvelles fonctionnalités pour les membres seront disponibles dans les futures versions, et les droits gratuits des visiteurs seront progressivement ramenés. Les droits et avantages des membres ne seront en aucun cas affectés.\n        Afin d'aider les visiteurs à devenir des membres pro sans encombre, la période d'essai d'abonnement sera prolongée de 3 jours à 6 jours."
     }
 }

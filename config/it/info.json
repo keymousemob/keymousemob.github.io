@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":1,
+        "_id":2,
         "title": "Notifica",
-        "content": "        In base ai feedback di molti membri pro, nelle prossime versioni saranno disponibili ulteriori funzionalità per i membri e i diritti gratuiti degli ospiti saranno gradualmente revocati. I diritti e i vantaggi dei membri non saranno in alcun modo influenzati.\n        Per aiutare in modo migliore gli ospiti a diventare membri pro senza problemi, il periodo di prova della sottoscrizione verrà prolungato da 3 a 7 giorni."
+        "content": "        In base ai feedback di molti membri pro, nelle prossime versioni saranno disponibili ulteriori funzionalità per i membri e i diritti gratuiti degli ospiti saranno gradualmente revocati. I diritti e i vantaggi dei membri non saranno in alcun modo influenzati.\n        Per aiutare in modo migliore gli ospiti a diventare membri pro senza problemi, il periodo di prova della sottoscrizione verrà prolungato da 3 a 6 giorni."
     }
 }
