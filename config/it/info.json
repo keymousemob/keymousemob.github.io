@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":2,
-        "title": "Notifica",
-        "content": "        In base ai feedback di molti membri pro, nelle prossime versioni saranno disponibili ulteriori funzionalità per i membri e i diritti gratuiti degli ospiti saranno gradualmente revocati. I diritti e i vantaggi dei membri non saranno in alcun modo influenzati.\n        Per aiutare in modo migliore gli ospiti a diventare membri pro senza problemi, il periodo di prova della sottoscrizione verrà prolungato da 3 a 6 giorni."
+        "_id": 3,
+        "title": "Aggiornamento del servizio",
+        "content": "        A causa dell'aumento dei costi di gestione, a partire da febbraio 2025 verranno effettuati gradualmente degli adeguamenti dei prezzi.\n    La durata del periodo di prova per l'adesione è stata estesa da 3 a 6 giorni e non verranno applicati costi per i rimborsi durante il periodo di prova.\n    Si consiglia ai turisti che non hanno ancora provato l'adesione Pro di godere appieno dei privilegi esclusivi durante questi 6 giorni."
     }
 }

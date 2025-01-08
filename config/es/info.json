@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":2,
-        "title": "Notificación",
-        "content": "        Basado en las opiniones de muchos miembros Pro, en futuras versiones se abrirán más funciones para miembros y se irán recibiendo gradualmente los derechos gratuitos de los visitantes. Los derechos y beneficios de los miembros no se verán afectados de ninguna manera.\n        Para ayudar mejor a los visitantes a convertirse en miembros Pro sin problemas, se ampliará el período de prueba de suscripción de 3 días a 6 días."
+        "_id": 3,
+        "title": "Mejora del servicio",
+        "content": "        Debido al aumento de los costos de operación, a partir de febrero de 2025 se realizarán ajustes de precios de forma gradual.\n    La período de prueba de la membresía ha sido prolongado de 3 días a 6 días, y no se cobrarán cargos por devoluciones durante el período de prueba.\n    Se recomienda a los turistas que aún no hayan experimentado la membresía Pro que disfruten al máximo de los privilegios exclusivos durante estos 6 días."
     }
 }

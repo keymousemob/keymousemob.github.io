@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":2,
-        "title": "Notification",
-        "content": "        En raison des retours de nombreux membres pro, de nouvelles fonctionnalités pour les membres seront disponibles dans les futures versions, et les droits gratuits des visiteurs seront progressivement ramenés. Les droits et avantages des membres ne seront en aucun cas affectés.\n        Afin d'aider les visiteurs à devenir des membres pro sans encombre, la période d'essai d'abonnement sera prolongée de 3 jours à 6 jours."
+        "_id": 3,
+        "title": "Amélioration du service",
+        "content": "        En raison de l'augmentation des coûts d'exploitation, des ajustements de prix seront effectués progressivement à partir de février 2025.\n    La période d'essai d'adhésion a été prolongée de trois jours à six jours et aucun frais ne sera facturé pour les remboursements effectués durant la période d'essai.\n    Il est conseillé aux touristes qui n'ont pas encore expérimenté l'adhésion Pro de profiter pleinement des privilèges exclusifs au cours de ces six jours."
     }
 }

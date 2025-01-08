@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id":2,
-        "title": "Thông báo",
-        "content": "        Dựa trên những phản hồi từ nhiều thành viên Pro, trong các phiên bản tương lai, sẽ có nhiều chức năng dành cho thành viên được mở ra và quyền lợi miễn phí của khách thăm sẽ được thu hồi dần dần. Quyền lợi của thành viên sẽ không bị ảnh hưởng theo bất kỳ cách nào.\n        Để giúp khách thăm trở thành thành viên Pro một cách thuận lợi hơn, thời gian thử sử dụng đăng ký sẽ được 연 từ 3 ngày lên 6 ngày."
+        "_id": 3,
+        "title": "Nâng cấp dịch vụ",
+        "content": "        Do tăng chi phí vận hành, từ tháng 2 năm 2025 sẽ tiến hành điều chỉnh giá từng bước.\n    Thời gian thử nghiệm thành viên đã được kéo dài từ 3 ngày lên 6 ngày, và không phát sinh bất kỳ khoản phí nào khi hoàn tiền trong thời gian thử nghiệm.\n    Khuyên khách du lịch chưa trải nghiệm thành viên Pro nên tận hưởng hết các đặc quyền độc quyền trong 6 ngày này."
     }
 }
