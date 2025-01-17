@@ -1,7 +1,7 @@
 {
     "notify":{
-        "_id": 6,
-        "title": "Notizia importante",
-        "content": "        Mio eroe, ho urgentemente bisogno di te adesso. Solo tu puoi salvarmi. Sei la mia unica speranza.\n    La mia valutazione sta diminuendo rapidamente e sto per scomparire dal mondo digitale.\n    Solo la tua recensione a 5 stelle può salvarmi.\n    Se sei soddisfatto del mio servizio, vai immediatamente su Play Store e dammi una recensione a 5 stelle.\n    Una valutazione troppo bassa mi farà perdere l'opportunità di servirti.\n    Mio eroe, salva questo mondo."
+        "_id": 7,
+        "title": "Sondaggio per gli utenti",
+        "content": "        Sei soddisfatto/a di questo app? Che tu la ami o no, vogliamo conoscere la tua opinione.\n   Sei soddisfatto/a del prezzo? Sei disposto/a a comprarlo e a consigliarlo agli altri?\n   Cosa ne pensi riguardo alla traduzione, al design, alla pubblicità o ai bug?\n   Se hai qualche idea, non esitare a farcelo sapere. Faremo le dovute adegustamenti il più presto possibile, fino a quando non sarai soddisfatto/a. Non esitare! Invia un'e - mail a KeyMouseMob@gmail.com. Se la tua suggerenza viene adottata, riceverai immediatamente una mensilità. "
     }
 }
