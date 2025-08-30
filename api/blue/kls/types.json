@@ -1,0 +1,53 @@
+{
+  "list": [
+    {
+      "_id": 1,
+      "type": "EN",
+      "language": "English",
+      "des": "English Keyboard",
+      "path": "/api/blue/kls/EN/list.json"
+    },
+    {
+      "_id": 2,
+      "type": "JP",
+      "language": "日本語",
+      "des": "日本語キーボード",
+      "path": "/api/blue/kls/JP/list.json"
+    },
+    {
+      "_id": 3,
+      "type": "FR",
+      "language": "Français",
+      "des": "Clavier Français",
+      "path": "/api/blue/kls/FR/list.json"
+    },
+    {
+      "_id": 4,
+      "type": "DE",
+      "language": "Deutsch",
+      "des": "Deutsche Tastatur",
+      "path": "/api/blue/kls/DE/list.json"
+    },
+    {
+      "_id": 5,
+      "type": "KR",
+      "language": "한국인",
+      "des": "한국어 키보드",
+      "path": "/api/blue/kls/KR/list.json"
+    },
+    {
+      "_id": 6,
+      "type": "TH",
+      "language": "ยาสุฟุมิ",
+      "des": "แป้นพิมพ์ภาษาไทย",
+      "path": "/api/blue/kls/TH/list.json"
+    },
+    {
+      "_id": 7,
+      "type": "RU",
+      "language": "Русский",
+      "des": "Русская клавиатура",
+      "path": "/api/blue/kls/RU/list.json"
+    }
+  ]
+}
