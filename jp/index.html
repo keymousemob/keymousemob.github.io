@@ -43,30 +43,32 @@
 </head>
 
 <body>
+    <!--line TOP-->
     <div id="top-container">
         <h1 id="top-title">KeyMouseMob</h1>
         <h3 id="top-hint">Bluetoothキーボード・マウス</h3>
     </div>
     <div class="grid">
-        <div id="title_app" class="title gap100 span_line">KeyMouseMob Android</div>
-
+        <!--line Title-->
+        <div id="title_app" class="title gap100 span_line">KeyMouseMob</div>
+        <!--line download-->
         <div class="center gap40 span_line">
             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
                 <img id="download_google" class="download shadow" src="../common/images/download_google.svg"
                     alt="GooglePlay で KeyMouseMob をダウンロード">
             </a>
         </div>
-
+        <!--line title-->
         <p id="subtitle" class="gap100 span_line">複数の機能をサポート</p>
-
+        <!--line functions-->
         <div class="span2"></div>
+        <div class="item_method span2 shadow">
+            <img src="../common/images/icon_keyboard.svg"  alt="キーボード">
+            <p id="item_keyboard_text">キーボード</p>
+        </div>
         <div class="item_method span2 shadow">
             <img src="../common/images/icon_mouse.svg" alt="マウス">
             <p id="item_mouse_text">マウス</p>
-        </div>
-        <div class="item_method span2 shadow">
-            <img src="../common/images/icon_keyboard.svg" alt="キーボード">
-            <p id="item_keyboard_text">キーボード</p>
         </div>
         <div class="item_method span2 shadow">
             <img src="../common/images/icon_shortcut.svg" alt="ショートカット">
@@ -77,105 +79,67 @@
             <p id="item_launchpad_text">Launchpad</p>
         </div>
         <div class="span2"></div>
-
+        <!--line computers-->
         <div class="span2"></div>
-        <img id="img_connect" class="span4 gap200 shadow" src="../common/images/img_connect.png" alt="複数のコンピュータを接続する">
-        <p id="hint_connect" class="span4 gap200 hint">複数のコンピュータを接続する
-            <br>
-            Bluetooth接続のみが必要です
-        </p>
+        <img id="img_connect" class="span4 gap200 shadow" src="../common/images/img_connect.svg" alt="複数のコンピュータを接続する">
+        <p id="hint_connect" class="span4 gap200 hint">複数のコンピュータを接続する<br>Bluetooth接続のみが必要です</p>
         <div class="span2"></div>
-
+        <!--line mouse-->
         <div class="span2"></div>
-        <p id="hint_keyboard" class="span4 gap260 hint">超応答性の高いキーボード<br>
-            超柔軟なトラックパッド<br>
-            無制限のショートカット キー</p>
-        <div class="span6 gap260 img_stack">
+        <p id="hint_keyboard" class="span4 gap200 hint">超応答性の高いキーボード<br>超柔軟なトラックパッド<br>無制限のショートカット キー</p>
+        <div class="span6 gap200 img_stack">
             <img id="keyboard_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="キーボード">
             <div id="keyboard_overlay_1" class="overlay"></div>
             <img id="keyboard_layer_2" class="shadow" src="../common/images/img_page_mouse_dialog.png" alt="マウス">
             <div id="keyboard_overlay_2" class="overlay"></div>
             <img id="keyboard_layer_3" class="shadow" src="../common/images/img_page_mouse.png" alt="マウス">
         </div>
-
-        <div class="span6 gap260 img_stack">
+        <!--line keyboard-->
+        <div class="span6 gap200 img_stack">
             <img id="skin_layer_1" class="shadow" src="../common/images/img_page_keyboard_list.png" alt="キーボード リスト">
             <div id="skin_overlay_1" class="overlay"></div>
             <img id="skin_layer_2" class="shadow" src="../common/images/img_keyboard_skin.png" alt="キーボード スキン">
         </div>
-        <p id="hint_skin" class="span4 gap260 hint">多言語キーボード<br>
-            キーボードの種類は無制限<br>
-            絶妙なキーボードスキン</p>
+        <p id="hint_skin" class="span4 gap200 hint">多言語キーボード<br>キーボードの種類は無制限<br>絶妙なキーボードスキン</p>
         <div class="span2"></div>
-
+        <!--line launchpad-->
         <div class="span2"></div>
-        <p id="hint_shortcut" class="span4 gap260 hint">いつでもショートカット キーを調整できます<br>
-            いつでもショートカット キーを作成できます<br>
-            無制限のアクションリスト</p>
-        <div class="span6 gap260 img_stack">
-            <img id="shortcut_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="キーボード">
-            <div id="shortcut_overlay_1" class="overlay"></div>
-            <img id="shortcut_layer_2" class="shadow" src="../common/images/img_page_short_list.png" alt="ショートカット リスト">
-            <div id="shortcut_overlay_2" class="overlay"></div>
-            <img id="shortcut_layer_3" class="shadow" src="../common/images/img_page_short_edit.png" alt="ショートカット編集">
-        </div>
-
-        <div class="span2"></div>
-        <img id="img_nfc" class="span4 gap260 shadow" src="../common/images/img_page_nfc.png" alt="nfc">
-        <p id="hint_nfc" class="span4 gap260 hint">PC向けにNFCを拡張する<br>
-            ICカードの素早い識別<br>
-            PCへのクイック転送</p>
-        <div class="span2"></div>
-
-        <div class="span2"></div>
-        <p id="hint_launchpad" class="span4 gap260 hint">美しい発射台<br>
-            無限の可能性<br>
-            生産性の向上</p>
-        <img id="img_launchpad" class="span6 gap260 shadow" src="../common/images/img_page_launchpad.png"
-            alt="launchpad">
-
-        <div class="span2"></div>
-        <img id="img_scan" class="span4 gap260 shadow" src="../common/images/img_page_scan.png" alt="スキャナー">
-        <p id="hint_scan" class="span4 gap260 hint">PC用拡張スキャナー<br>
-            QRコードを素早く識別<br>
-            バーコードを素早く識別する</p>
-        <div class="span2"></div>
-    </div>
-
-    <div class="grid desktop" style="display: none;">
-        <div id="title_desktop" class="white_title gap100 span_line">KeyMouseMob PC Tools</div>
-
-        <div class="span2"></div>
-        <img id="img_splash" class="span4 gap100 shadow" src="../common/images/img_pc_splash.png" alt="pc splash">
-        <div class="span1"></div>
-        <p id="hint_pc" class="span4 gap100 desktop_hint">キーボードの作成<br>ショートカットの作成<br>アプリをタッチ バーにリンク</p>
-        <div class="span1"></div>
-
-        <img id="img_pc_normal" class="span4 gap10 shadow" src="../common/images/img_pc_normal.png" alt="pc normal">
-        <img id="img_pc_min" class="span4 gap10 shadow" src="../common/images/img_pc_min.png" alt="pc min">
-        <div class="span4"></div>
-
-        <img class="img_pc_edit span_line gap260 shadow" src="../common/images/img_pc_kls.png" alt="pc kls">
-
-        <div class="span2"></div>
-        <img class="img_pc_edit span6 gap-200 shadow" src="../common/images/img_pc_ksc.png" alt="pc ksc">
-        <div class="span1"></div>
-        <p id="hint_pc_edit" class="span3 gap-200 desktop_hint">使いやすい</p>
-
+        <p id="hint_launchpad" class="span4 gap200 hint">美しい発射台<br>無限の可能性<br>生産性の向上</p>
+        <img id="img_launchpad" class="span6 gap200 shadow" src="../common/images/img_page_launchpad.png" alt="launchpad">
+        <!--line Title-->
+        <div id="title_desktop" class="title gap300 span_line">KeyMouseMob PC Tools</div>
+        <!--line download-->
         <div class="span3"></div>
-
-        <div class="center span2 gap200">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
+        <div class="center span2 gap100">
+            <a target="_blank" href="../common/desktop/KeyMouseMob_Setup.pkg">
                 <img class="download shadow" src="../common/images/download_apple.svg" alt="download apple">
             </a>
         </div>
         <div class="span2"></div>
-        <div class="center span2 gap200">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
+        <div class="center span2 gap100">
+            <a target="_blank" href="../common/desktop/KeyMouseMob_Setup.exe">
                 <img class="download shadow" src="../common/images/download_windows.svg" alt="download windows">
             </a>
         </div>
         <div class="span3"></div>
+        <!--line pc main-->
+        <div class="span2"></div>
+        <img id="img_splash" class="span4 gap100 shadow" src="../common/images/img_pc_splash.png" alt="pc splash">
+        <div class="span1"></div>
+        <p id="hint_pc" class="span4 gap100 hint">キーボードの作成<br>ショートカットの作成</p>
+        <div class="span1"></div>
+        <!--line pc main_-->
+        <img id="img_pc_normal" class="span4 gap_70 shadow" src="../common/images/img_pc_normal.png" alt="pc normal">
+        <img id="img_pc_min" class="span4 shadow" src="../common/images/img_pc_min.png" alt="pc min">
+        <div class="span4"></div>
+        <!--line kls-->
+        <img class="img_pc_edit span_line gap260 shadow" src="../common/images/img_pc_ksc.png" alt="pc ksc">
+
+        <div class="span2"></div>
+        <img class="img_pc_edit span6 gap-200 shadow" src="../common/images/img_pc_kls.png" alt="pc kls">
+        <div class="span1"></div>
+        <p id="hint_pc_edit" class="span3 gap-200 hint">使いやすい</p>
+
     </div>
 
     <div class="grid review">
@@ -224,7 +188,7 @@
         </div>
         <div class="review_box span3 gap50 shadow">
             <div class="comment">
-                <p><strong>“</strong>笔记本触摸板坏了，拿来救急还是可以的</p>
+                <p><strong>“</strong>Реально работает топп❤️❤️❤️❤️❤️❤️♥️♥️💖💖💖💖💖💖💖😋😋😋😁😁😁😁🥰😍😍😘😍🤩</p>
             </div>
             <div class="line"></div>
             <div>
@@ -232,20 +196,21 @@
             </div>
             <div class="user_box">
                 <img class="avatar" src="../common/images/avatar4.png">
-                <p class="name">laha</p>
+                <p class="name">Денис Устиченко</p>
             </div>
         </div>
     </div>
     <div class="grid footer">
-        <div class="span2">
-            <a id="link_terms" target="_blank" href="https://keymousemob.github.io/page/Terms.html">利用規約</a>｜<a
-                id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html">プライバシー</a>
-        </div>
-        <div class="span1"></div>
         <div class="span4">
-            <span id="contact_email">連絡先メール : </span><a id="link_terms"
-                href="mailto:KeyMouseMob@Gmail.com?subject=MFD&body=MFD">KeyMouseMob@Gmail.com</a>
+            <a target="_blank" href="https://keymousemob.github.io/page/Terms.html">利用規約</a>
+            |
+            <a id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html">プライバシー</a>
         </div>
+        <div class="span4">
+            <span id="contact_email">連絡先メール : </span>
+            <a href="mailto:KeyMouseMob@gmail.com?subject=MFD&body=MFD">KeyMouseMob@gmail.com</a>
+        </div>
+        <div class="span4"></div>
     </div>
 </body>
 

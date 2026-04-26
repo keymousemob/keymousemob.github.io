@@ -29,8 +29,10 @@ a {
 }
 
 .shadow {
-    box-shadow: 16rem 16rem 20rem rgba(0, 0, 0, 0.3);
+    box-shadow: 12rem 12rem 20rem rgba(0, 0, 0, 0.3);
 }
+
+
 
 .info_box {
     margin-top: 200rem;
@@ -120,6 +122,9 @@ a {
     margin-top: -200rem;
 }
 
+.gap_70 {
+    margin-top: -70rem;
+}
 .gap10 {
     margin-top: 10rem;
 }
@@ -142,6 +147,9 @@ a {
 
 .gap260 {
     margin-top: 260rem;
+}
+.gap300 {
+    margin-top: 300rem;
 }
 
 .grid-item {
@@ -216,15 +224,14 @@ body {
 
 .grid {
     width: calc(1440rem);
-    padding: 0;
     display: grid;
-    grid-column-gap: 12rem;
-    padding: 0 24rem;
+    grid-column-gap: 16rem;
     grid-template-columns: repeat(12, 105rem);
     margin-left: auto;
     margin-right: auto;
     align-items: center;
-    padding-bottom: 100rem;
+    /*TRBL*/
+    padding: 0 24rem 200rem 24rem;
 }
 
 #subtitle {
@@ -235,30 +242,28 @@ body {
 
 .item_method {
     margin-top: 40rem;
-    height: 300rem;
+    height: 220rem;
     background-color: #055362;
-    border-radius: 8rem;
+    border-radius: 12rem;
     text-align: center;
 }
 
 .item_method img {
-    margin-top: 47rem;
-    width: 128rem;
-    height: 128rem;
+    margin-top: 20rem;
+    width: 120rem;
+    height: 120rem;
 }
 
 .item_method p {
     font-size: 24rem;
     color: white;
-    margin-top: 57rem;
+    margin-top: 20rem;
 }
 
 #img_connect {
     width: 350rem;
-    height: 110.51rem;
-    border: #222222;
-    border-style: solid;
-    border-width: 5rem;
+    height: 110rem;
+    border: 5rem solid #222222;
     border-radius: 9rem;
 }
 
@@ -488,13 +493,13 @@ body {
 
 #img_splash,
 #img_pc_normal {
-    border-radius: 15rem;
+    border-radius: 12rem;
     width: 400rem;
 }
 
 #img_pc_min {
-    border-radius: 15rem;
-    width: 375rem;
+    border-radius: 12rem;
+    width: 263rem;
 }
 
 .img_pc_edit {

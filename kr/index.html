@@ -42,30 +42,32 @@
 </head>
 
 <body>
+    <!--line TOP-->
     <div id="top-container">
         <h1 id="top-title">KeyMouseMob</h1>
         <h3 id="top-hint">블루투스 키보드·마우스</h3>
     </div>
     <div class="grid">
-        <div id="title_app" class="title gap100 span_line">KeyMouseMob Android</div>
-
+        <!--line Title-->
+        <div id="title_app" class="title gap100 span_line">KeyMouseMob</div>
+        <!--line download-->
         <div class="center gap40 span_line">
             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
                 <img id="download_google" class="download shadow" src="../common/images/download_google.svg"
                     alt="GooglePlay에서 KeyMouseMob 다운로드">
             </a>
         </div>
-
+        <!--line title-->
         <p id="subtitle" class="gap100 span_line">다양한 기능 지원</p>
-
+        <!--line functions-->
         <div class="span2"></div>
-        <div class="item_method span2 shadow">
-            <img src="../common/images/icon_mouse.svg" alt="마우스">
-            <p id="item_mouse_text">마우스</p>
-        </div>
         <div class="item_method span2 shadow">
             <img src="../common/images/icon_keyboard.svg" alt="키보드">
             <p id="item_keyboard_text">키보드</p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="../common/images/icon_mouse.svg" alt="마우스">
+            <p id="item_mouse_text">마우스</p>
         </div>
         <div class="item_method span2 shadow">
             <img src="../common/images/icon_shortcut.svg" alt="단축키">
@@ -76,104 +78,67 @@
             <p id="item_launchpad_text">런치패드</p>
         </div>
         <div class="span2"></div>
-
+        <!--line computers-->
         <div class="span2"></div>
-        <img id="img_connect" class="span4 gap200 shadow" src="../common/images/img_connect.png" alt="여러 대의 컴퓨터 연결">
-        <p id="hint_connect" class="span4 gap200 hint">여러 대의 컴퓨터 연결
-            <br>
-            블루투스 연결만 필요
-        </p>
+        <img id="img_connect" class="span4 gap200 shadow" src="../common/images/img_connect.svg" alt="여러 대의 컴퓨터 연결">
+        <p id="hint_connect" class="span4 gap200 hint">여러 대의 컴퓨터 연결<br>블루투스 연결만 필요</p>
         <div class="span2"></div>
-
+        <!--line mouse-->
         <div class="span2"></div>
-        <p id="hint_keyboard" class="span4 gap260 hint">반응성이 뛰어난 키보드<br>
-            매우 유연한 트랙패드<br>
-            무제한 단축키</p>
-        <div class="span6 gap260 img_stack">
+        <p id="hint_keyboard" class="span4 gap200 hint">반응성이 뛰어난 키보드<br>매우 유연한 트랙패드<br>무제한 단축키</p>
+        <div class="span6 gap200 img_stack">
             <img id="keyboard_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="키보드">
             <div id="keyboard_overlay_1" class="overlay"></div>
             <img id="keyboard_layer_2" class="shadow" src="../common/images/img_page_mouse_dialog.png" alt="마우스">
             <div id="keyboard_overlay_2" class="overlay"></div>
             <img id="keyboard_layer_3" class="shadow" src="../common/images/img_page_mouse.png" alt="마우스">
         </div>
-
-        <div class="span6 gap260 img_stack">
+        <!--line keyboard-->
+        <div class="span6 gap200 img_stack">
             <img id="skin_layer_1" class="shadow" src="../common/images/img_page_keyboard_list.png" alt="키보드 목록">
             <div id="skin_overlay_1" class="overlay"></div>
             <img id="skin_layer_2" class="shadow" src="../common/images/img_keyboard_skin.png" alt="키보드 스킨">
         </div>
-        <p id="hint_skin" class="span4 gap260 hint">다국어 키보드<br>
-            무제한 키보드 유형<br>
-            절묘한 키보드 스킨</p>
+        <p id="hint_skin" class="span4 gap200 hint">다국어 키보드<br>무제한 키보드 유형<br>절묘한 키보드 스킨</p>
         <div class="span2"></div>
-
+        <!--line launchpad-->
         <div class="span2"></div>
-        <p id="hint_shortcut" class="span4 gap260 hint">언제든지 단축키 조정<br>
-            언제든지 바로가기 키 생성<br>
-            무제한 액션 목록</p>
-        <div class="span6 gap260 img_stack">
-            <img id="shortcut_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="키보드">
-            <div id="shortcut_overlay_1" class="overlay"></div>
-            <img id="shortcut_layer_2" class="shadow" src="../common/images/img_page_short_list.png" alt="단축키 목록">
-            <div id="shortcut_overlay_2" class="overlay"></div>
-            <img id="shortcut_layer_3" class="shadow" src="../common/images/img_page_short_edit.png" alt="단축키 편집">
-        </div>
-
-        <div class="span2"></div>
-        <img id="img_nfc" class="span4 gap260 shadow" src="../common/images/img_page_nfc.png" alt="nfc">
-        <p id="hint_nfc" class="span4 gap260 hint">PC용 NFC 확장<br>
-            칩 카드의 빠른 식별<br>
-            PC로 빠른 전송</p>
-        <div class="span2"></div>
-
-        <div class="span2"></div>
-        <p id="hint_launchpad" class="span4 gap260 hint">아름다운 발사대<br>
-            무한한 가능성<br>
-            생산성 향상</p>
-        <img id="img_launchpad" class="span6 gap260 shadow" src="../common/images/img_page_launchpad.png" alt="런치패드">
-
-        <div class="span2"></div>
-        <img id="img_scan" class="span4 gap260 shadow" src="../common/images/img_page_scan.png" alt="스캐너">
-        <p id="hint_scan" class="span4 gap260 hint">PC용 스캐너 확장<br>
-            QR 코드를 빠르게 식별하세요<br>
-            바코드를 빠르게 식별</p>
-        <div class="span2"></div>
-    </div>
-
-    <div class="grid desktop" style="display: none;">
-        <div id="title_desktop" class="white_title gap100 span_line">KeyMouseMob PC Tools</div>
-
-        <div class="span2"></div>
-        <img id="img_splash" class="span4 gap100 shadow" src="../common/images/img_pc_splash.png" alt="pc splash">
-        <div class="span1"></div>
-        <p id="hint_pc" class="span4 gap100 desktop_hint">키보드 만들기<br>단축키 만들기<br>앱을 터치바에 연결</p>
-        <div class="span1"></div>
-
-        <img id="img_pc_normal" class="span4 gap10 shadow" src="../common/images/img_pc_normal.png" alt="pc normal">
-        <img id="img_pc_min" class="span4 gap10 shadow" src="../common/images/img_pc_min.png" alt="pc min">
-        <div class="span4"></div>
-
-        <img class="img_pc_edit span_line gap260 shadow" src="../common/images/img_pc_kls.png" alt="pc kls">
-
-        <div class="span2"></div>
-        <img class="img_pc_edit span6 gap-200 shadow" src="../common/images/img_pc_ksc.png" alt="pc ksc">
-        <div class="span1"></div>
-        <p id="hint_pc_edit" class="span3 gap-200 desktop_hint">사용하기 쉬움</p>
-
+        <p id="hint_launchpad" class="span4 gap200 hint">아름다운 발사대<br>무한한 가능성<br>생산성 향상</p>
+        <img id="img_launchpad" class="span6 gap200 shadow" src="../common/images/img_page_launchpad.png" alt="런치패드">
+        <!--line Title-->
+        <div id="title_desktop" class="title gap300 span_line">KeyMouseMob PC Tools</div>
+        <!--line download-->
         <div class="span3"></div>
-
-        <div class="center span2 gap200">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
+        <div class="center span2 gap100">
+            <a target="_blank" href="../common/desktop/KeyMouseMob_Setup.pkg">
                 <img class="download shadow" src="../common/images/download_apple.svg" alt="download apple">
             </a>
         </div>
         <div class="span2"></div>
-        <div class="center span2 gap200">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
+        <div class="center span2 gap100">
+            <a target="_blank" href="../common/desktop/KeyMouseMob_Setup.exe">
                 <img class="download shadow" src="../common/images/download_windows.svg" alt="download windows">
             </a>
         </div>
         <div class="span3"></div>
+        <!--line pc main-->
+        <div class="span2"></div>
+        <img id="img_splash" class="span4 gap100 shadow" src="../common/images/img_pc_splash.png" alt="pc splash">
+        <div class="span1"></div>
+        <p id="hint_pc" class="span4 gap100 hint">키보드 만들기<br>단축키 만들기</p>
+        <div class="span1"></div>
+        <!--line pc main_-->
+        <img id="img_pc_normal" class="span4 gap_70 shadow" src="../common/images/img_pc_normal.png" alt="pc normal">
+        <img id="img_pc_min" class="span4 shadow" src="../common/images/img_pc_min.png" alt="pc min">
+        <div class="span4"></div>
+        <!--line kls-->
+        <img class="img_pc_edit span_line gap260 shadow" src="../common/images/img_pc_ksc.png" alt="pc ksc">
+
+        <div class="span2"></div>
+        <img class="img_pc_edit span6 gap-200 shadow" src="../common/images/img_pc_kls.png" alt="pc kls">
+        <div class="span1"></div>
+        <p id="hint_pc_edit" class="span3 gap-200 hint">사용하기 쉬움</p>
+
     </div>
 
     <div class="grid review">
@@ -222,7 +187,7 @@
         </div>
         <div class="review_box span3 gap50 shadow">
             <div class="comment">
-                <p><strong>“</strong>笔记本触摸板坏了，拿来救急还是可以的</p>
+                <p><strong>“</strong>Реально работает топп❤️❤️❤️❤️❤️❤️♥️♥️💖💖💖💖💖💖💖😋😋😋😁😁😁😁🥰😍😍😘😍🤩</p>
             </div>
             <div class="line"></div>
             <div>
@@ -230,20 +195,21 @@
             </div>
             <div class="user_box">
                 <img class="avatar" src="../common/images/avatar4.png">
-                <p class="name">laha</p>
+                <p class="name">Денис Устиченко</p>
             </div>
         </div>
     </div>
     <div class="grid footer">
-        <div class="span2">
-            <a id="link_terms" target="_blank" href="https://keymousemob.github.io/page/Terms.html">약관</a>｜<a
-                id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html">개인정보보호</a>
-        </div>
-        <div class="span1"></div>
         <div class="span4">
-            <span id="contact_email">연락처 이메일 : </span><a id="link_terms"
-                href="mailto:KeyMouseMob@Gmail.com?subject=MFD&body=MFD">KeyMouseMob@Gmail.com</a>
+            <a target="_blank" href="https://keymousemob.github.io/page/Terms.html">약관</a>
+            |
+            <a id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html">개인정보보호</a>
         </div>
+        <div class="span4">
+            <span id="contact_email">연락처 이메일 : </span>
+            <a href="mailto:KeyMouseMob@gmail.com?subject=MFD&body=MFD">KeyMouseMob@gmail.com</a>
+        </div>
+        <div class="span4"></div>
     </div>
 </body>
 

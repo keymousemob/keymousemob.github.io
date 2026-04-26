@@ -43,30 +43,32 @@
 </head>
 
 <body>
+    <!--line TOP-->
     <div id="top-container">
         <h1 id="top-title">KeyMouseMob</h1>
         <h3 id="top-hint">Tastiera·Mouse Bluetooth</h3>
     </div>
     <div class="grid">
-        <div id="title_app" class="title gap100 span_line">KeyMouseMob Android</div>
-
+        <!--line Title-->
+        <div id="title_app" class="title gap100 span_line">KeyMouseMob</div>
+        <!--line download-->
         <div class="center gap40 span_line">
             <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
                 <img id="download_google" class="download shadow" src="../common/images/download_google.svg"
                     alt="Scarica KeyMouseMob su GooglePlay">
             </a>
         </div>
-
+        <!--line title-->
         <p id="subtitle" class="gap100 span_line">Supporta più funzioni</p>
-
+        <!--line functions-->
         <div class="span2"></div>
-        <div class="item_method span2 shadow">
-            <img src="../common/images/icon_mouse.svg" alt="Mouse">
-            <p id="item_mouse_text">Mouse</p>
-        </div>
         <div class="item_method span2 shadow">
             <img src="../common/images/icon_keyboard.svg" alt="Tastiera">
             <p id="item_keyboard_text">Tastiera</p>
+        </div>
+        <div class="item_method span2 shadow">
+            <img src="../common/images/icon_mouse.svg" alt="Mouse">
+            <p id="item_mouse_text">Mouse</p>
         </div>
         <div class="item_method span2 shadow">
             <img src="../common/images/icon_shortcut.svg" alt="Scorciatoia">
@@ -77,101 +79,68 @@
             <p id="item_launchpad_text">Launchpad</p>
         </div>
         <div class="span2"></div>
-
+        <!--line computers-->
         <div class="span2"></div>
-        <img id="img_connect" class="span4 gap200 shadow" src="../common/images/img_connect.png"
-            alt="Connetti più computer">
-        <p id="hint_connect" class="span4 gap200 hint">Connetti più computer<br>È richiesta solo la connessione
-            Bluetooth</p>
+        <img id="img_connect" class="span4 gap200 shadow" src="../common/images/img_connect.svg"
+             alt="Connetti più computer">
+        <p id="hint_connect" class="span4 gap200 hint">Connetti più computer<br>È richiesta solo la connessione Bluetooth</p>
         <div class="span2"></div>
-
+        <!--line mouse-->
         <div class="span2"></div>
-        <p id="hint_keyboard" class="span4 gap260 hint">Tastiera super reattiva<br>Trackpad super flessibile<br>Tasti di scelta rapida illimitati</p>
-        <div class="span6 gap260 img_stack">
+        <p id="hint_keyboard" class="span4 gap200 hint">Tastiera super reattiva<br>Trackpad super flessibile<br>Tasti di scelta rapida illimitati</p>
+        <div class="span6 gap200 img_stack">
             <img id="keyboard_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="tastiera">
             <div id="keyboard_overlay_1" class="overlay"></div>
             <img id="keyboard_layer_2" class="shadow" src="../common/images/img_page_mouse_dialog.png" alt="Mouse">
             <div id="keyboard_overlay_2" class="overlay"></div>
             <img id="keyboard_layer_3" class="shadow" src="../common/images/img_page_mouse.png" alt="Mouse">
         </div>
-
-        <div class="span6 gap260 img_stack">
+        <!--line keyboard-->
+        <div class="span6 gap200 img_stack">
             <img id="skin_layer_1" class="shadow" src="../common/images/img_page_keyboard_list.png" alt="elenco tastiera">
             <div id="skin_overlay_1" class="overlay"></div>
             <img id="skin_layer_2" class="shadow" src="../common/images/img_keyboard_skin.png" alt="skin tastiera">
         </div>
-        <p id="hint_skin" class="span4 gap260 hint">Tastiera multilingue<br>
-            Tipi di tastiera illimitati<br>
-            Pelle della tastiera squisita</p>
+        <p id="hint_skin" class="span4 gap200 hint">Tastiera multilingue<br>Tipi di tastiera illimitati<br>Pelle della tastiera squisita</p>
         <div class="span2"></div>
-
+        <!--line launchpad-->
         <div class="span2"></div>
-        <p id="hint_shortcut" class="span4 gap260 hint">Regola i tasti di scelta rapida in qualsiasi momento<br>
-            Crea tasti di scelta rapida in qualsiasi momento<br>
-            Elenco di azioni illimitato</p>
-        <div class="span6 gap260 img_stack">
-            <img id="shortcut_layer_1" class="shadow" src="../common/images/img_page_keyboard.png" alt="keyboard">
-            <div id="shortcut_overlay_1" class="overlay"></div>
-            <img id="shortcut_layer_2" class="shadow" src="../common/images/img_page_short_list.png" alt="elenco scorciatoie">
-            <div id="shortcut_overlay_2" class="overlay"></div>
-            <img id="shortcut_layer_3" class="shadow" src="../common/images/img_page_short_edit.png" alt="modifica scorciatoie">
-        </div>
-
-        <div class="span2"></div>
-        <img id="img_nfc" class="span4 gap260 shadow" src="../common/images/img_page_nfc.png" alt="nfc">
-        <p id="hint_nfc" class="span4 gap260 hint">Estendi NFC per PC<br>
-            Identificazione rapida delle carte con chip<br>
-            Trasferimento rapido al PC</p>
-        <div class="span2"></div>
-
-        <div class="span2"></div>
-        <p id="hint_launchpad" class="span4 gap260 hint">Bellissimo trampolino di lancio<br>
-            Possibilità infinite<br>
-            Aumentare la produttività</p>
-        <img id="img_launchpad" class="span6 gap260 shadow" src="../common/images/img_page_launchpad.png" alt="launchpad">
-
-        <div class="span2"></div>
-        <img id="img_scan" class="span4 gap260 shadow" src="../common/images/img_page_scan.png" alt="scanner">
-        <p id="hint_scan" class="span4 gap260 hint">Estendi lo scanner per PC<br>
-            Identifica rapidamente i codici QR<br>
-            Identificare rapidamente i codici a barre</p>
-        <div class="span2"></div>
-    </div>
-
-    <div class="grid desktop" style="display: none;">
-        <div id="title_desktop" class="white_title gap100 span_line">KeyMouseMob PC Tools</div>
-
-        <div class="span2"></div>
-        <img id="img_splash" class="span4 gap100 shadow" src="../common/images/img_pc_splash.png" alt="pc splash">
-        <div class="span1"></div>
-        <p id="hint_pc" class="span4 gap100 desktop_hint">Crea tastiera<br>Crea scorciatoia<br>Collega app alla touch bar</p>
-        <div class="span1"></div>
-
-        <img id="img_pc_normal" class="span4 gap10 shadow" src="../common/images/img_pc_normal.png" alt="pc normal">
-        <img id="img_pc_min" class="span4 gap10 shadow" src="../common/images/img_pc_min.png" alt="pc min">
-        <div class="span4"></div>
-
-        <img class="img_pc_edit span_line gap260 shadow" src="../common/images/img_pc_kls.png" alt="pc kls">
-
-        <div class="span2"></div>
-        <img class="img_pc_edit span6 gap-200 shadow" src="../common/images/img_pc_ksc.png" alt="pc ksc">
-        <div class="span1"></div>
-        <p id="hint_pc_edit" class="span3 gap-200 desktop_hint">Facile da usare</p>
-
+        <p id="hint_launchpad" class="span4 gap200 hint">Bellissimo trampolino di lancio<br>Possibilità infinite<br>Aumentare la produttività</p>
+        <img id="img_launchpad" class="span6 gap200 shadow" src="../common/images/img_page_launchpad.png" alt="launchpad">
+        <!--line Title-->
+        <div id="title_desktop" class="title gap300 span_line">KeyMouseMob PC Tools</div>
+        <!--line download-->
         <div class="span3"></div>
-
-        <div class="center span2 gap200">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
+        <div class="center span2 gap100">
+            <a target="_blank" href="../common/desktop/KeyMouseMob_Setup.pkg">
                 <img class="download shadow" src="../common/images/download_apple.svg" alt="download apple">
             </a>
         </div>
         <div class="span2"></div>
-        <div class="center span2 gap200">
-            <a target="_blank" href="https://play.google.com/store/apps/details?id=com.keymousemob.blue">
+        <div class="center span2 gap100">
+            <a target="_blank" href="../common/desktop/KeyMouseMob_Setup.exe">
                 <img class="download shadow" src="../common/images/download_windows.svg" alt="download windows">
             </a>
         </div>
         <div class="span3"></div>
+        <!--line pc main-->
+        <div class="span2"></div>
+        <img id="img_splash" class="span4 gap100 shadow" src="../common/images/img_pc_splash.png" alt="pc splash">
+        <div class="span1"></div>
+        <p id="hint_pc" class="span4 gap100 hint">Crea tastiera<br>Crea scorciatoia</p>
+        <div class="span1"></div>
+        <!--line pc main_-->
+        <img id="img_pc_normal" class="span4 gap_70 shadow" src="../common/images/img_pc_normal.png" alt="pc normal">
+        <img id="img_pc_min" class="span4 shadow" src="../common/images/img_pc_min.png" alt="pc min">
+        <div class="span4"></div>
+        <!--line kls-->
+        <img class="img_pc_edit span_line gap260 shadow" src="../common/images/img_pc_ksc.png" alt="pc ksc">
+
+        <div class="span2"></div>
+        <img class="img_pc_edit span6 gap-200 shadow" src="../common/images/img_pc_kls.png" alt="pc kls">
+        <div class="span1"></div>
+        <p id="hint_pc_edit" class="span3 gap-200 hint">Facile da usare</p>
+
     </div>
 
     <div class="grid review">
@@ -220,7 +189,7 @@
         </div>
         <div class="review_box span3 gap50 shadow">
             <div class="comment">
-                <p><strong>“</strong>笔记本触摸板坏了，拿来救急还是可以的</p>
+                <p><strong>“</strong>Реально работает топп❤️❤️❤️❤️❤️❤️♥️♥️💖💖💖💖💖💖💖😋😋😋😁😁😁😁🥰😍😍😘😍🤩</p>
             </div>
             <div class="line"></div>
             <div>
@@ -228,20 +197,21 @@
             </div>
             <div class="user_box">
                 <img class="avatar" src="../common/images/avatar4.png">
-                <p class="name">laha</p>
+                <p class="name">Денис Устиченко</p>
             </div>
         </div>
     </div>
     <div class="grid footer">
-        <div class="span2">
-            <a id="link_terms" target="_blank" href="https://keymousemob.github.io/page/Terms.html">Termini</a>｜<a
-                id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html">Privacy</a>
-        </div>
-        <div class="span1"></div>
         <div class="span4">
-            <span id="contact_email">Contatto Email : </span><a id="link_terms"
-                href="mailto:KeyMouseMob@Gmail.com?subject=MFD&body=MFD">KeyMouseMob@Gmail.com</a>
+            <a target="_blank" href="https://keymousemob.github.io/page/Terms.html">Termini</a>
+            |
+            <a id="link_privacy" target="_blank" href="https://keymousemob.github.io/page/Privacy.html">Privacy</a>
         </div>
+        <div class="span4">
+            <span id="contact_email">Contatto Email : </span>
+            <a href="mailto:KeyMouseMob@gmail.com?subject=MFD&body=MFD">KeyMouseMob@gmail.com</a>
+        </div>
+        <div class="span4"></div>
     </div>
 </body>
 
