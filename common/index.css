@@ -154,9 +154,9 @@ a {
 
 .grid-item {
     background-color: #2196F3;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-size: 60px;
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+    font-size: 60rem;
     text-align: center;
 }
 
@@ -182,8 +182,7 @@ body {
     position: relative;
     /* 宽度覆盖整个父容器（通常是body） */
     width: 100%;
-    height: 397rem;
-    max-height: 397px;
+    aspect-ratio: 1440 / 397;
     /* 设置背景图像，水平重复，垂直居中 */
     background: url('images/top_bg.svg') repeat-x center top;
     /* 自动宽度，高度设置为容器的100% */
@@ -192,7 +191,9 @@ body {
     box-sizing: border-box;
     /* 如果背景图像重复导致内容区域有溢出，则隐藏它 */
     overflow: hidden;
-    background-color: crimson;
+    margin: 0;
+    padding: 0;
+    background-color: #1A2A37;
 }
 
 #top-container::after {
