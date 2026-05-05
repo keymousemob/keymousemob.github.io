@@ -1,0 +1,932 @@
+{
+  "next": "/res/action/list2.json",
+  "list": [
+    {
+      "name": "Default",
+      "icon": "/res/action/apps/app.png",
+      "list": [
+        [
+          {
+            "name": "Vol Down",
+            "icon": "/res/action/icons/system/vol_sub.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "2"
+              }
+            ]
+          },
+          {
+            "name": "Vol Up",
+            "icon": "/res/action/icons/system/vol_add.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "1"
+              }
+            ]
+          },
+          {
+            "name": "Vol Mute",
+            "icon": "/res/action/icons/system/vol_mute.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "4"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Previous",
+            "icon": "/res/action/icons/system/media_previous.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "20"
+              }
+            ]
+          },
+          {
+            "name": "Play Pause",
+            "icon": "/res/action/icons/system/media_play.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "8"
+              }
+            ]
+          },
+          {
+            "name": "Next",
+            "icon": "/res/action/icons/system/media_next.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "control",
+                "default": "10"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "capture",
+            "icon": "/res/action/icons/system/capture.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "shortcut",
+                "default": "win shift s",
+                "apple": "win shift 3"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "lock",
+            "icon": "/res/action/icons/system/lock.png",
+            "iconColor": "default",
+            "bgColor": "default",
+            "action": [
+              {
+                "type": "shortcut",
+                "default": "win l",
+                "apple": "win ctrl q"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "TV",
+      "icon": "/res/action/apps/tv.png",
+      "list": [
+        [{
+            "name": "power",
+            "icon": "/res/action/icons/tv/power.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#D82121",
+            "action": [
+              {
+                "type": "control",
+                "default": "0,1"
+              }
+            ]
+        }],
+        [{
+            "name": "OK",
+            "icon": "/res/action/icons/tv/ok.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,28"
+              }
+            ]
+        }],
+        [{
+            "name": "UP",
+            "icon": "/res/action/icons/tv/up.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,52"
+              }
+            ]
+        }],
+        [{
+            "name": "Down",
+            "icon": "/res/action/icons/tv/down.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,51"
+              }
+            ]
+        }],
+        [{
+            "name": "Left",
+            "icon": "/res/action/icons/tv/left.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,50"
+              }
+            ]
+        }],
+        [{
+            "name": "Right",
+            "icon": "/res/action/icons/tv/right.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,4F"
+              }
+            ]
+        }],
+        [{
+            "name": "Back",
+            "icon": "/res/action/icons/tv/back.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "key",
+                "default": "0,F1"
+              }
+            ]
+        }],
+        [{
+            "name": "Home",
+            "icon": "/res/action/icons/tv/home.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "0,4"
+              }
+            ]
+        }],
+        [{
+            "name": "Menu",
+            "icon": "/res/action/icons/tv/menu.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "0,2"
+              }
+            ]
+        }],
+        [
+          {
+            "name": "Vol Down",
+            "icon": "/res/action/icons/tv/vol_sub.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "2"
+              }
+            ]
+          },
+          {
+            "name": "Vol Up",
+            "icon": "/res/action/icons/tv/vol_add.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "1"
+              }
+            ]
+          },
+          {
+            "name": "Vol Mute",
+            "icon": "/res/action/icons/tv/vol_mute.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "4"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Previous",
+            "icon": "/res/action/icons/tv/media_previous.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "20"
+              }
+            ]
+          },
+          {
+            "name": "Play/Pause",
+            "icon": "/res/action/icons/tv/media_play.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "8"
+              }
+            ]
+          },
+          {
+            "name": "Next",
+            "icon": "/res/action/icons/tv/media_next.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "10"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Rewind",
+            "icon": "/res/action/icons/tv/rewind.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "80"
+              }
+            ]
+          },
+          {
+            "name": "Forward",
+            "icon": "/res/action/icons/tv/forward.png",
+            "iconColor": "#FFFFFF",
+            "bgColor": "#000000",
+            "action": [
+              {
+                "type": "control",
+                "default": "40"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "ppt",
+      "icon": "/res/action/apps/ppt.png",
+      "list": [
+        [
+          {
+            "name": "Play",
+            "icon": "/res/action/icons/ppt/open.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "shortcut",
+                "default": "f5",
+                "apple": "win enter"
+              }
+            ]
+          },
+          {
+            "name": "Previous",
+            "icon": "/res/action/icons/ppt/previous.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "shortcut",
+                "default": "up_arrow",
+                "apple": "up_arrow"
+              }
+            ]
+          },
+          {
+            "name": "Next",
+            "icon": "/res/action/icons/ppt/next.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "shortcut",
+                "default": "down_arrow",
+                "apple": "down_arrow"
+              }
+            ]
+          },
+          {
+            "name": "Exit",
+            "icon": "/res/action/icons/ppt/exit.png",
+            "iconColor": "",
+            "action": [
+              {
+                "type": "shortcut",
+                "default": "esc",
+                "apple": "esc"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "word",
+      "icon": "/res/action/apps/word.png",
+      "list": [
+        [
+          {
+            "name": "New File",
+            "icon": "/res/action/icons/word/new_file.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win n",
+                "default": "ctrl n",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Open File",
+            "icon": "/res/action/icons/word/open_file.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win o",
+                "default": "ctrl o",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Save",
+            "icon": "/res/action/icons/word/save.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win s",
+                "default": "ctrl s",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Close",
+            "icon": "/res/action/icons/word/close.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win f4",
+                "default": "ctrl w",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Print",
+            "icon": "/res/action/icons/word/print.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win p",
+                "default": "ctrl p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Revoke",
+            "icon": "/res/action/icons/word/revoke.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win z",
+                "default": "ctrl z",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Redo",
+            "icon": "/res/action/icons/word/redo.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win y",
+                "default": "ctrl y",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Bold",
+            "icon": "/res/action/icons/word/bold.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win b",
+                "default": "ctrl b",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Italics",
+            "icon": "/res/action/icons/word/italics.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win i",
+                "default": "ctrl i",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Underline",
+            "icon": "/res/action/icons/word/underline.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win u",
+                "default": "ctrl u",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Left",
+            "icon": "/res/action/icons/word/align_left.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win l",
+                "default": "ctrl l",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Center",
+            "icon": "/res/action/icons/word/align_center.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win e",
+                "default": "ctrl e",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Right",
+            "icon": "/res/action/icons/word/align_right.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win r",
+                "default": "ctrl r",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Dispersion",
+            "icon": "/res/action/icons/word/align_dispersion.png",
+            "iconColor": "default",
+            "bgColor": "#4C79BE",
+            "action": [
+              {
+                "apple": "win j",
+                "default": "ctrl j",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "excel",
+      "icon": "/res/action/apps/excel.png",
+      "list": [
+        [
+          {
+            "name": "Copy",
+            "icon": "/res/action/icons/excel/copy.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win c",
+                "default": "ctrl c",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paste",
+            "icon": "/res/action/icons/excel/paste.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win v",
+                "default": "ctrl v",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Paste Special",
+            "icon": "/res/action/icons/excel/paste_special.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win alt v",
+                "default": "ctrl alt v",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Cut",
+            "icon": "/res/action/icons/excel/cut.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win x",
+                "default": "ctrl x",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Replace",
+            "icon": "/res/action/icons/excel/replace.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "ctrl h",
+                "default": "ctrl h",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hyperlink",
+            "icon": "/res/action/icons/excel/link.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win k",
+                "default": "ctrl k",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Cell Format",
+            "icon": "/res/action/icons/excel/cell_format.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win 1",
+                "default": "ctrl 1",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hide Rows",
+            "icon": "/res/action/icons/excel/hide_rows.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win 9",
+                "default": "ctrl 9",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Hide Columns",
+            "icon": "/res/action/icons/excel/hide_columns.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win 0",
+                "default": "ctrl 0",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "New File",
+            "icon": "/res/action/icons/excel/new_file.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win n",
+                "default": "ctrl n",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Open File",
+            "icon": "/res/action/icons/excel/open_file.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win o",
+                "default": "ctrl o",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Save",
+            "icon": "/res/action/icons/excel/save.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win s",
+                "default": "ctrl s",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Close",
+            "icon": "/res/action/icons/excel/close.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win f4",
+                "default": "ctrl w",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Print",
+            "icon": "/res/action/icons/excel/print.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win p",
+                "default": "ctrl p",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Revoke",
+            "icon": "/res/action/icons/excel/revoke.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win z",
+                "default": "ctrl z",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Redo",
+            "icon": "/res/action/icons/excel/redo.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win y",
+                "default": "ctrl y",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Bold",
+            "icon": "/res/action/icons/excel/bold.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win b",
+                "default": "ctrl b",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Italics",
+            "icon": "/res/action/icons/excel/italics.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win i",
+                "default": "ctrl i",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Underline",
+            "icon": "/res/action/icons/excel/underline.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win u",
+                "default": "ctrl u",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "name": "Left",
+            "icon": "/res/action/icons/excel/align_left.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win l",
+                "default": "ctrl l",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Center",
+            "icon": "/res/action/icons/excel/align_center.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win e",
+                "default": "ctrl e",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Right",
+            "icon": "/res/action/icons/excel/align_right.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win r",
+                "default": "ctrl r",
+                "type": "shortcut"
+              }
+            ]
+          },
+          {
+            "name": "Dispersion",
+            "icon": "/res/action/icons/excel/align_dispersion.png",
+            "bgColor": "#429668",
+            "iconColor": "default",
+            "action": [
+              {
+                "apple": "win j",
+                "default": "ctrl j",
+                "type": "shortcut"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
